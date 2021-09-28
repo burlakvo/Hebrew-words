@@ -1,6 +1,6 @@
 # Hebrew words
 
-Version: 1.0.0
+Version: 1.0.1
 
 ## Development
 
@@ -27,6 +27,10 @@ Version: 1.0.0
 - to be continued...
 
 ### Change log
+
+#### 1.0.1
+
+- fix misspelling class name in index.html
 
 #### 1.0.0
 
