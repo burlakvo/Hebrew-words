@@ -1,0 +1,6122 @@
+{
+    "procent": {
+        "ru": "процент",
+        "he": "אחוז"
+    },
+    "nazad": {
+        "ru": "назад",
+        "he": "אחורה"
+    },
+    "medsestrachastospritazhsuffiksom": {
+        "ru": "(мед)сестра (часто с притяж.суффиксом)",
+        "he": "אחות"
+    },
+    "medsestry": {
+        "ru": "(мед)сёстры",
+        "he": "אחיות"
+    },
+    "plemannik": {
+        "ru": "племянник",
+        "he": "אחיין"
+    },
+    "plemannica": {
+        "ru": "племянница",
+        "he": "אחיינית"
+    },
+    "drugojinoj": {
+        "ru": "другой, иной",
+        "he": "אחר"
+    },
+    "posleetogopotomzatem": {
+        "ru": "после этого, потом, затем",
+        "he": "אחר-כך"
+    },
+    "poslednij": {
+        "ru": "последний",
+        "he": "אחרון"
+    },
+    "posle": {
+        "ru": "после",
+        "he": "אחרי"
+    },
+    "vtoraapolovinadnapopoludni": {
+        "ru": "вторая половина дня, пополудни",
+        "he": "אחרי-צהריים"
+    },
+    "drugaapo-drugomuinacheaneto": {
+        "ru": "другая; по-другому, иначе; а (не) то",
+        "he": "אחרת"
+    },
+    "odna": {
+        "ru": "одна",
+        "he": "אחת"
+    },
+    "odinnadcatyzhr": {
+        "ru": "одиннадцать (ж.р.)",
+        "he": "אחת-עשׂרה"
+    },
+    "ostrovpristavkane-": {
+        "ru": "остров; приставка \"не-\"",
+        "he": "אי"
+    },
+    "nevozmozhno": {
+        "ru": "невозможно",
+        "he": "אי-אפשר"
+    },
+    "kakoj": {
+        "ru": "какой",
+        "he": "איזה"
+    },
+    "kakaa": {
+        "ru": "какая",
+        "he": "איזו"
+    },
+    "kakoj-nibudy": {
+        "ru": "какой-нибудь",
+        "he": "איזשהו"
+    },
+    "kakaa-nibudy": {
+        "ru": "какая-нибудь",
+        "he": "איזושהי"
+    },
+    "kakvoproskakimobrazom": {
+        "ru": "как (вопрос), каким образом",
+        "he": "איך"
+    },
+    "kakie": {
+        "ru": "какие",
+        "he": "אילה, אילו"
+    },
+    "netuotsutstvuetnelyza": {
+        "ru": "нет(у), отсутствует; нельзя",
+        "he": "אין"
+    },
+    "nichegostrashnogo": {
+        "ru": "ничего (страшного)",
+        "he": "אין דבר"
+    },
+    "onneegonetonotsutstvuet": {
+        "ru": "он не; его нет, он отсутствует",
+        "he": "איננו"
+    },
+    "onaneeenetonaotsutstvuet": {
+        "ru": "она не; ее нет, она отсутствует",
+        "he": "איננה"
+    },
+    "gde": {
+        "ru": "где",
+        "he": "איפה"
+    },
+    "gde-nibudy": {
+        "ru": "где-нибудь",
+        "he": "איפשהו"
+    },
+    "chelovekmuzhchina": {
+        "ru": "человек; мужчина",
+        "he": "איש"
+    },
+    "ludi": {
+        "ru": "люди",
+        "he": "אנשים"
+    },
+    "vysokopostavlennyepersony": {
+        "ru": "высокопоставленные персоны",
+        "he": "אישים"
+    },
+    "biznesmensmihut": {
+        "ru": "бизнесмен (смихут)",
+        "he": "איש-עסקים"
+    },
+    "biznesmeny": {
+        "ru": "бизнесмены",
+        "he": "אנשי-עסקים"
+    },
+    "zhenschinazhenazhr": {
+        "ru": "женщина; жена (ж.р.)",
+        "he": "אישה, אשה"
+    },
+    "zhenschinyzheny": {
+        "ru": "женщины; жёны",
+        "he": "נשים"
+    },
+    "spravkazavereniepodtverzhdenieodobrenieutverzhdenie": {
+        "ru": "справка; заверение, подтверждение; одобрение, утверждение",
+        "he": "אישור"
+    },
+    "noodnako": {
+        "ru": "но, однако",
+        "he": "אבל"
+    },
+    "edaprocesspoedanie": {
+        "ru": "еда (процесс), поедание",
+        "he": "אכילה"
+    },
+    "kbog": {
+        "ru": "к; Бог",
+        "he": "אל"
+    },
+    "nesglagolomvbuduschvremeniobrazuetotricatformupovelitnaklonenia": {
+        "ru": "не (с глаголом в будущ. времени образует отрицат. форму повелит. наклонения)",
+        "he": "אל"
+    },
+    "aposleprotivopostavleniakromekak": {
+        "ru": "а (после противопоставления); кроме как",
+        "he": "אלא"
+    },
+    "eti": {
+        "ru": "эти",
+        "he": "אלה,אלו"
+    },
+    "vdovec": {
+        "ru": "вдовец",
+        "he": "אלמן"
+    },
+    "vdova": {
+        "ru": "вдова",
+        "he": "אלמנה"
+    },
+    "tysacha": {
+        "ru": "тысяча",
+        "he": "אלף"
+    },
+    "dvetysachi": {
+        "ru": "две тысячи",
+        "he": "אלפיים"
+    },
+    "alfavit": {
+        "ru": "алфавит",
+        "he": "אלף-בית"
+    },
+    "eslili": {
+        "ru": "если; ли",
+        "he": "אם"
+    },
+    "matychastospritazhatsuffiksom": {
+        "ru": "мать (часто с притяжат. суффиксом)",
+        "he": "אם"
+    },
+    "materi": {
+        "ru": "матери",
+        "he": "אמהות"
+    },
+    "mama": {
+        "ru": "мама",
+        "he": "אמא, אימא"
+    },
+    "vanna": {
+        "ru": "ванна",
+        "he": "אמבטיה"
+    },
+    "seredina": {
+        "ru": "середина",
+        "he": "אמצע"
+    },
+    "pravdaistina": {
+        "ru": "правда, истина",
+        "he": "אמת"
+    },
+    "my": {
+        "ru": "мы",
+        "he": "אנחנו"
+    },
+    "a": {
+        "ru": "я",
+        "he": "אני"
+    },
+    "otecmrchastospritazhsuffiksom": {
+        "ru": "отец(м.р.;часто с притяж.суффиксом)",
+        "he": "אב"
+    },
+    "otcypredki": {
+        "ru": "отцы; предки",
+        "he": "אבות"
+    },
+    "papa": {
+        "ru": "папа",
+        "he": "אבא"
+    },
+    "vesna": {
+        "ru": "весна",
+        "he": "אביב"
+    },
+    "kamenygirazhr": {
+        "ru": "камень; гиря (ж.р.)",
+        "he": "אבן"
+    },
+    "kamnigiri": {
+        "ru": "камни; гири",
+        "he": "אבנים"
+    },
+    "agora1100chastyshekela": {
+        "ru": "агора (1/100 часть шекеля)",
+        "he": "אגורה"
+    },
+    "krasnyj": {
+        "ru": "красный",
+        "he": "אדום"
+    },
+    "krasnaa": {
+        "ru": "красная",
+        "he": "אדומה"
+    },
+    "gospodin": {
+        "ru": "господин",
+        "he": "אדון, אדוני"
+    },
+    "chelovek": {
+        "ru": "человек",
+        "he": "אדם"
+    },
+    "zemla": {
+        "ru": "земля",
+        "he": "אדמה"
+    },
+    "lubovy": {
+        "ru": "любовь",
+        "he": "אהבה"
+    },
+    "lubimyj": {
+        "ru": "любимый",
+        "he": "אהוב"
+    },
+    "lubimaa": {
+        "ru": "любимая",
+        "he": "אהובה"
+    },
+    "ili": {
+        "ru": "или",
+        "he": "או"
+    },
+    "avgust": {
+        "ru": "август",
+        "he": "אוגוסט"
+    },
+    "lubaschij": {
+        "ru": "любящий",
+        "he": "אוהב"
+    },
+    "vozduh": {
+        "ru": "воздух",
+        "he": "אוויר"
+    },
+    "uhozhr": {
+        "ru": "ухо (ж.р.)",
+        "he": "אוזן"
+    },
+    "ushi": {
+        "ru": "уши",
+        "he": "אוזניים"
+    },
+    "mashinaavtomobily": {
+        "ru": "машина, автомобиль",
+        "he": "אוטו"
+    },
+    "avtobus": {
+        "ru": "автобус",
+        "he": "אוטובוס"
+    },
+    "edapischa": {
+        "ru": "еда, пища",
+        "he": "אוכל"
+    },
+    "mozhetbytyveroatno": {
+        "ru": "может быть, вероятно",
+        "he": "אולי"
+    },
+    "zalmrodnako": {
+        "ru": "зал (м.р.); однако",
+        "he": "אולם"
+    },
+    "zaly": {
+        "ru": "залы",
+        "he": "אולמות"
+    },
+    "kursyivritastudia": {
+        "ru": "курсы иврита; студия",
+        "he": "אולפן"
+    },
+    "universitet": {
+        "ru": "университет",
+        "he": "אוניברסיטה"
+    },
+    "korablysudno": {
+        "ru": "корабль, судно",
+        "he": "ספינה"
+    },
+    "pekary": {
+        "ru": "пекарь",
+        "he": "אופה"
+    },
+    "zhenschina-pekary": {
+        "ru": "женщина-пекарь",
+        "he": "אופה"
+    },
+    "motocikl": {
+        "ru": "мотоцикл",
+        "he": "אופנוע"
+    },
+    "velosipedtolykomnch": {
+        "ru": "велосипед (только мн.ч.)",
+        "he": "אופניים"
+    },
+    "oktabry": {
+        "ru": "октябрь",
+        "he": "אוקטובר"
+    },
+    "svetogonyogonekmr": {
+        "ru": "свет; огонь, огонёк (м.р.)",
+        "he": "אור"
+    },
+    "ogniogonyki": {
+        "ru": "огни, огоньки",
+        "he": "אורות"
+    },
+    "ris": {
+        "ru": "рис",
+        "he": "אורז"
+    },
+    "gosty": {
+        "ru": "гость",
+        "he": "אורח"
+    },
+    "gostya": {
+        "ru": "гостья",
+        "he": "אורחת"
+    },
+    "dlina": {
+        "ru": "длина",
+        "he": "אורך"
+    },
+    "Iznacheniebukvazhr": {
+        "ru": "I значение: буква (ж.р.)",
+        "he": "אות"
+    },
+    "bukvy": {
+        "ru": "буквы",
+        "he": "אותיות"
+    },
+    "IIznachpriznaksignalnagradamr": {
+        "ru": "II знач.: (при)знак,сигнал;награда(м.р.)",
+        "he": "אות"
+    },
+    "priznakisignalynagrady": {
+        "ru": "(при)знаки, сигналы; награды",
+        "he": "אותות"
+    },
+    "totzhesamyj": {
+        "ru": "тот же (самый)",
+        "he": "אותו"
+    },
+    "tazhesamaa": {
+        "ru": "та же (самая)",
+        "he": "אותה"
+    },
+    "tezhesamye-muzhizhenrody": {
+        "ru": "те же (самые) - муж. и жен. роды",
+        "he": "אותם, אותן"
+    },
+    "tozhesamoe": {
+        "ru": "то же самое",
+        "he": "אותו דבר"
+    },
+    "togdavtovrema": {
+        "ru": "тогда, в то время",
+        "he": "אז"
+    },
+    "oblastyzonarajon": {
+        "ru": "область, зона, район",
+        "he": "אזור"
+    },
+    "grazhdanin": {
+        "ru": "гражданин",
+        "he": "אזרח"
+    },
+    "grazhdanka": {
+        "ru": "гражданка",
+        "he": "אזרחית"
+    },
+    "grazhdanstvoobschestvovedenie": {
+        "ru": "гражданство; обществоведение",
+        "he": "אזרחות"
+    },
+    "bratmedbratkaminchastospritazhatelynymsuffiksom": {
+        "ru": "брат; медбрат; камин (часто с притяжательным суффиксом)",
+        "he": "אח"
+    },
+    "odinmr": {
+        "ru": "один (м.р.)",
+        "he": "אחד"
+    },
+    "odinnadcatymr": {
+        "ru": "одиннадцать (м.р.)",
+        "he": "אחד-עשׂר"
+    },
+    "iz-zavsledstvie": {
+        "ru": "из-за, вследствие",
+        "he": "בגלל"
+    },
+    "proverennyjprovereno": {
+        "ru": "проверенный, проверено",
+        "he": "בדוק"
+    },
+    "proverennaa": {
+        "ru": "проверенная",
+        "he": "בדוקה"
+    },
+    "tochnorovnoimenno": {
+        "ru": "точно, ровно, именно",
+        "he": "בדיוק"
+    },
+    "shutkaanekdot": {
+        "ru": "шутка, анекдот",
+        "he": "בדיחה"
+    },
+    "proverkaosmotranaliz": {
+        "ru": "проверка, осмотр, анализ",
+        "he": "בדיקה"
+    },
+    "vpodorogevpoputi": {
+        "ru": "в/по дороге, в/по пути",
+        "he": "בדרך"
+    },
+    "obychnokakpravilo": {
+        "ru": "обычно, как правило",
+        "he": "בדרך-כלל"
+    },
+    "beremennaa": {
+        "ru": "беременная",
+        "he": "בהריון"
+    },
+    "konechno": {
+        "ru": "конечно",
+        "he": "בוודאי"
+    },
+    "vybirauschijizbirauschijizbirately": {
+        "ru": "выбирающий, избирающий; избиратель",
+        "he": "בוחר"
+    },
+    "vyizbirauschaaizbiratelynica": {
+        "ru": "вы/из|бирающая; избирательница",
+        "he": "בוחרת"
+    },
+    "vybirauschieizbirauschieizbirateli": {
+        "ru": "выбирающие, избирающие; избиратели",
+        "he": "בוחרים"
+    },
+    "markarovnotochnovdesatku": {
+        "ru": "марка; ровно, точно, в \"десятку\"",
+        "he": "בול"
+    },
+    "stroitelybober": {
+        "ru": "строитель; боб(ё)р",
+        "he": "בונה"
+    },
+    "utro": {
+        "ru": "утро",
+        "he": "בוקר"
+    },
+    "dobroeutro": {
+        "ru": "Доброе утро!",
+        "he": "בוקר טוב"
+    },
+    "utra": {
+        "ru": "утрА",
+        "he": "בקרים"
+    },
+    "deshevopodeshevke": {
+        "ru": "дёшево, по дешёвке",
+        "he": "בזול"
+    },
+    "snaruzhi": {
+        "ru": "снаружи",
+        "he": "בחוץ"
+    },
+    "parenyunosha": {
+        "ru": "парень, юноша",
+        "he": "בחור"
+    },
+    "devushka": {
+        "ru": "девушка",
+        "he": "בחורה"
+    },
+    "ekzamenrakursugolzrenia": {
+        "ru": "экзамен; ракурс, угол зрения",
+        "he": "בחינה"
+    },
+    "vybor": {
+        "ru": "выбор",
+        "he": "בחירה"
+    },
+    "uverennadezhnyjbezopasnyj": {
+        "ru": "уверен; надёжный, безопасный",
+        "he": "בטוח"
+    },
+    "uverenanadezhnaabezopasnaa": {
+        "ru": "уверена; надёжная, безопасная",
+        "he": "בטוחה"
+    },
+    "konechnonavernaka": {
+        "ru": "конечно, наверняка",
+        "he": "בטח"
+    },
+    "zhivotpuzozhr": {
+        "ru": "живот, пузо (ж.р.)",
+        "he": "בטן"
+    },
+    "zhivoty": {
+        "ru": "животы",
+        "he": "בטנים"
+    },
+    "prihodprishestvie": {
+        "ru": "приход, пришествие",
+        "he": "ביאה"
+    },
+    "dorogovtridoroga": {
+        "ru": "дОрого, втридорога",
+        "he": "ביוקר"
+    },
+    "vmeste": {
+        "ru": "вместе",
+        "he": "יחד"
+    },
+    "strahovkastrahovanie": {
+        "ru": "страховка, страхование",
+        "he": "ביטוח"
+    },
+    "otmenaannulirovanieneuvazhenieprezrenie": {
+        "ru": "отмена, аннулирование; неуважение, презрение",
+        "he": "ביטול"
+    },
+    "razvlechenievremapreprovozhdenie": {
+        "ru": "развлечение, времяпрепровождение",
+        "he": "בילוי"
+    },
+    "mezhdu": {
+        "ru": "между",
+        "he": "בין"
+    },
+    "pokudamezhdutempokamesty": {
+        "ru": "покуда, между тем, покаместь",
+        "he": "בינתיים"
+    },
+    "ajcozhr": {
+        "ru": "яйцо (ж.р.)",
+        "he": "ביצה"
+    },
+    "ajca": {
+        "ru": "Яйца",
+        "he": "ביצים"
+    },
+    "poseschenievizitpohodvgosti": {
+        "ru": "посещение, визит, поход в гости",
+        "he": "ביקור"
+    },
+    "kritikaproverkakontrolyrevizia": {
+        "ru": "критика; проверка, контроль, ревизия",
+        "he": "ביקורת"
+    },
+    "stolica": {
+        "ru": "столица",
+        "he": "בירה"
+    },
+    "pivo": {
+        "ru": "пиво",
+        "he": "בירה"
+    },
+    "varkaprigotovleniepischigolevojpas": {
+        "ru": "варка, приготовление пищи; голевой пас",
+        "he": "בישול"
+    },
+    "domchastospritazhsuffiksom": {
+        "ru": "дом (часто с притяж.суффиксом)",
+        "he": "בית"
+    },
+    "bolynicasmihut": {
+        "ru": "больница (смихут)",
+        "he": "בית-חולים"
+    },
+    "fabrikazavodsmihut": {
+        "ru": "фабрика, завод (смихут)",
+        "he": "בית-חרושת"
+    },
+    "roddomsmihut": {
+        "ru": "роддом (смихут)",
+        "he": "בית-יולדות"
+    },
+    "sinagogasmihut": {
+        "ru": "синагога (смихут)",
+        "he": "בית-כנסת"
+    },
+    "aptekasmihut": {
+        "ru": "аптека (смихут)",
+        "he": "בית-מרקחת"
+    },
+    "sudzdaniepomescheniesmihut": {
+        "ru": "суд (здание, помещение) (смихут)",
+        "he": "בית-משפט"
+    },
+    "shkolasmihut": {
+        "ru": "школа (смихут)",
+        "he": "בית-ספר"
+    },
+    "kafesmihut": {
+        "ru": "кафе (смихут)",
+        "he": "בית-קפה"
+    },
+    "vse-taki": {
+        "ru": "всё-таки",
+        "he": "בכל זאת"
+    },
+    "voobsche": {
+        "ru": "вообще",
+        "he": "בכלל"
+    },
+    "bez": {
+        "ru": "без",
+        "he": "בלי"
+    },
+    "vmesto": {
+        "ru": "вместо",
+        "he": "במקום"
+    },
+    "vtechenienaprotazhenii": {
+        "ru": "в течение, на протяжении",
+        "he": "במשך"
+    },
+    "zapreschennyjzaprescheno": {
+        "ru": "запрещенный, запрещено",
+        "he": "אסור"
+    },
+    "nostakzheni": {
+        "ru": "нос; также; ни",
+        "he": "אף"
+    },
+    "nikto": {
+        "ru": "никто",
+        "he": "אף אחד"
+    },
+    "nikogdanirazu": {
+        "ru": "никогда, ни разу",
+        "he": "אף פעם"
+    },
+    "seryj": {
+        "ru": "серый",
+        "he": "אפור"
+    },
+    "vypechkapecheniedejstvie": {
+        "ru": "выпечка, печение (действие)",
+        "he": "אפייה"
+    },
+    "dazhe": {
+        "ru": "даже",
+        "he": "אפילו"
+    },
+    "nolynichtozhestvo": {
+        "ru": "ноль; ничтожество",
+        "he": "אפס"
+    },
+    "nulinichtozhestva": {
+        "ru": "нули; ничтожества",
+        "he": "אפסים"
+    },
+    "aprely": {
+        "ru": "апрель",
+        "he": "אפריל"
+    },
+    "vozmozhnoveroatno": {
+        "ru": "(воз)можно, вероятно",
+        "he": "אפשר"
+    },
+    "vozmozhnosty": {
+        "ru": "возможность",
+        "he": "אפשרות"
+    },
+    "paleczhrukazatelynyjpalec": {
+        "ru": "палец (ж.р.); указательный палец",
+        "he": "אצבע"
+    },
+    "palycy": {
+        "ru": "пальцы",
+        "he": "אצבעות"
+    },
+    "u": {
+        "ru": "у",
+        "he": "אצל"
+    },
+    "chetyrezhr": {
+        "ru": "четыре (ж.р.)",
+        "he": "ארבע"
+    },
+    "chetyremr": {
+        "ru": "четыре (м.р.)",
+        "he": "ארבעה"
+    },
+    "chetyrnadcatyzhr": {
+        "ru": "четырнадцать (ж.р.)",
+        "he": "ארבע-עשׂרה"
+    },
+    "chetyrnadcatymr": {
+        "ru": "четырнадцать (м.р.)",
+        "he": "ארבעה-עשׂר"
+    },
+    "sorok": {
+        "ru": "сОрок",
+        "he": "ארבעים"
+    },
+    "chetyretysachi": {
+        "ru": "четыре тысячи",
+        "he": "ארבעת אלפים"
+    },
+    "upakovannyjzapakovannyj": {
+        "ru": "упакованный, запакованный",
+        "he": "ארוז"
+    },
+    "priempischitrapeza": {
+        "ru": "приём пищи, трапеза",
+        "he": "ארוחה"
+    },
+    "zavtraksmihut": {
+        "ru": "завтрак (смихут)",
+        "he": "ארוחת-בוקר"
+    },
+    "obedsmihut": {
+        "ru": "обед (смихут)",
+        "he": "ארוחת-צהריים"
+    },
+    "uzhinsmihut": {
+        "ru": "ужин (смихут)",
+        "he": "ארוחת-ערב"
+    },
+    "dlinnyjdolgij": {
+        "ru": "длинный, долгий",
+        "he": "ארוך"
+    },
+    "dlinnaadolgaa": {
+        "ru": "длинная, долгая",
+        "he": "ארוכה"
+    },
+    "shkafgrobmr": {
+        "ru": "шкаф; гроб (м.р.)",
+        "he": "ארון"
+    },
+    "shkafygroby": {
+        "ru": "шкафы; гробы",
+        "he": "ארונות"
+    },
+    "upakovkapachka": {
+        "ru": "упаковка, пачка",
+        "he": "אריזה"
+    },
+    "koshelek": {
+        "ru": "кошелёк",
+        "he": "ארנק"
+    },
+    "stranazemlazhr": {
+        "ru": "страна, земля (ж.р.)",
+        "he": "ארץ"
+    },
+    "stranyzemli": {
+        "ru": "стрАны, зЕмли",
+        "he": "ארצות"
+    },
+    "stranaizrailapo-latinskipalestina": {
+        "ru": "страна Израиля,по-латински Палестина",
+        "he": "ארץ ישׂראל"
+    },
+    "ssha": {
+        "ru": "США",
+        "he": "ארצות הברית"
+    },
+    "ogonystrelybazhrtolykoedch": {
+        "ru": "огонь; стрельба (ж.р.; только ед.ч.)",
+        "he": "אש"
+    },
+    "vinovatyjvinovnyj": {
+        "ru": "виноватый, виновный",
+        "he": "אשם"
+    },
+    "vinavinovnosty": {
+        "ru": "вина, виновность",
+        "he": "אשמה"
+    },
+    "kredit": {
+        "ru": "кредит",
+        "he": "אשראי"
+    },
+    "biznes-ledismihut": {
+        "ru": "бизнес-леди (смихут)",
+        "he": "אשת-עסקים"
+    },
+    "spripredlogvinitelynogopadezha": {
+        "ru": "с, при;предлог винительного падежа",
+        "he": "את"
+    },
+    "tyzhr": {
+        "ru": "ты (ж.р.)",
+        "he": "את"
+    },
+    "tymr": {
+        "ru": "ты (м.р.)",
+        "he": "אתה"
+    },
+    "vymr": {
+        "ru": "вы (м.р.)",
+        "he": "אתם"
+    },
+    "vchera": {
+        "ru": "вчера",
+        "he": "אתמול"
+    },
+    "vyzhr": {
+        "ru": "вы (ж.р.)",
+        "he": "אתן"
+    },
+    "vchem-togde-libotvoritelynyjpadezh": {
+        "ru": "в (чём-то, где-либо); творительный падеж",
+        "he": "ב"
+    },
+    "vseredineposredine": {
+        "ru": "в середине, посреди(не)",
+        "he": "באמצע"
+    },
+    "pripomoschiposredstvom": {
+        "ru": "при помощи, посредством",
+        "he": "באמצעות"
+    },
+    "dejstvitelynovzapravdu": {
+        "ru": "действительно, в(за)правду",
+        "he": "באמת"
+    },
+    "doma": {
+        "ru": "дОма",
+        "he": "בבית"
+    },
+    "pozhalujsta": {
+        "ru": "пожалуйста",
+        "he": "בבקשה"
+    },
+    "chastypredmetodezhdy": {
+        "ru": "часть/предмет одежды",
+        "he": "בגד"
+    },
+    "kupalyniksmihut": {
+        "ru": "купальник (смихут)",
+        "he": "בגד-ים"
+    },
+    "odezhdasobiratelyno": {
+        "ru": "одежда (собирательно)",
+        "he": "בגדים"
+    },
+    "vozrastprostokvasha": {
+        "ru": "возраст; простокваша",
+        "he": "גיל"
+    },
+    "vozrasty": {
+        "ru": "возрасты",
+        "he": "גילאים"
+    },
+    "morozhenoe": {
+        "ru": "мороженое",
+        "he": "גלידה"
+    },
+    "tozhetakzhei": {
+        "ru": "тоже, также; и",
+        "he": "גם"
+    },
+    "okonchennyjpolnyjsovershennyj": {
+        "ru": "оконченный; полный, совершенный",
+        "he": "גמור"
+    },
+    "okonchennaapolnaasovershennaa": {
+        "ru": "оконченная; полная, совершенная",
+        "he": "גמורה"
+    },
+    "pensioner": {
+        "ru": "пенсионер",
+        "he": "גמלאי"
+    },
+    "pensionerka": {
+        "ru": "пенсионерка",
+        "he": "גמלאית"
+    },
+    "pensia": {
+        "ru": "пенсия",
+        "he": "גמלה"
+    },
+    "sadpark": {
+        "ru": "сад, парк",
+        "he": "גן"
+    },
+    "detskijsadsmihut": {
+        "ru": "детский сад (смихут)",
+        "he": "גן-ילדים"
+    },
+    "nosok": {
+        "ru": "носок",
+        "he": "גרב"
+    },
+    "noski": {
+        "ru": "носкИ",
+        "he": "גרביים"
+    },
+    "gorlogortanymr": {
+        "ru": "горло; гортань (м.р.)",
+        "he": "גרון"
+    },
+    "gorlagortani": {
+        "ru": "горла; гортани",
+        "he": "גרונות"
+    },
+    "razvedennyjbyvshijmuzh": {
+        "ru": "разведённый; бывший муж",
+        "he": "גרוש"
+    },
+    "razvedennaabyvshaazhena": {
+        "ru": "разведённая; бывшая жена",
+        "he": "גרושה"
+    },
+    "dozhdy": {
+        "ru": "дождь",
+        "he": "גשם"
+    },
+    "dozhdi": {
+        "ru": "дожди",
+        "he": "גשמים"
+    },
+    "most": {
+        "ru": "мост",
+        "he": "גשר"
+    },
+    "mosty": {
+        "ru": "мосты",
+        "he": "גשרים"
+    },
+    "veschydeloslovo": {
+        "ru": "вещь; дело; слово",
+        "he": "דבר"
+    },
+    "veschidelaslova": {
+        "ru": "вещи; делА; словА",
+        "he": "דברים"
+    },
+    "ryba": {
+        "ru": "рыба",
+        "he": "דג"
+    },
+    "flag": {
+        "ru": "флаг",
+        "he": "דגל"
+    },
+    "flagi": {
+        "ru": "флаги",
+        "he": "דגלים"
+    },
+    "pochta": {
+        "ru": "почта",
+        "he": "דואר"
+    },
+    "obrazecprimer": {
+        "ru": "образец, пример",
+        "he": "דוגמה"
+    },
+    "obrazcyprimery": {
+        "ru": "образцы, примеры",
+        "he": "דוגמאות"
+    },
+    "dada": {
+        "ru": "дядя",
+        "he": "דוד"
+    },
+    "kotelbojler": {
+        "ru": "котёл, бойлер",
+        "he": "דוד"
+    },
+    "teta": {
+        "ru": "тётя",
+        "he": "דודה"
+    },
+    "imennokakraztakinazlovpiku": {
+        "ru": "именно, как раз; таки; назло, в пику",
+        "he": "דווקא"
+    },
+    "otchetraportizveschenieoshtrafe": {
+        "ru": "отчёт, рапорт; извещение о штрафе",
+        "he": "דו\"ח, דין וחשבון"
+    },
+    "pohozhijpodobnyjpohozhena-ל": {
+        "ru": "похожий, подобный; похоже (на - ל)",
+        "he": "דומה"
+    },
+    "hvatitdostatochnodovolyno": {
+        "ru": "хватит, достаточно, довольно",
+        "he": "די"
+    },
+    "dovolyno-takivesyma": {
+        "ru": "довольно-таки, весьма",
+        "he": "די"
+    },
+    "govorenierechyrazgovor": {
+        "ru": "говорение, речь, разговор",
+        "he": "דיבור"
+    },
+    "kvartira": {
+        "ru": "квартира",
+        "he": "דירה"
+    },
+    "toplivogorucheebenzin": {
+        "ru": "топливо, горючее, бензин",
+        "he": "דלק"
+    },
+    "dvery": {
+        "ru": "дверь",
+        "he": "דלת"
+    },
+    "dveri": {
+        "ru": "двери",
+        "he": "דלתות"
+    },
+    "krovydenygivomnchsmihuta": {
+        "ru": "кровь; деньги (во мн.ч. смихута)",
+        "he": "דם"
+    },
+    "listbumagi": {
+        "ru": "лист (бумаги)",
+        "he": "דף"
+    },
+    "listy": {
+        "ru": "листы",
+        "he": "דפים"
+    },
+    "dekabry": {
+        "ru": "декабрь",
+        "he": "דצמבר"
+    },
+    "tonkij": {
+        "ru": "тонкий",
+        "he": "דק"
+    },
+    "minutatonkaa": {
+        "ru": "минута; тонкая",
+        "he": "דקה"
+    },
+    "ug": {
+        "ru": "юг",
+        "he": "דרום"
+    },
+    "naugkugu": {
+        "ru": "на юг, к югу",
+        "he": "דרומה"
+    },
+    "trebuemyjtrebuuschijsatrebuetsa": {
+        "ru": "требуемый, требующийся, требуется",
+        "he": "דרוש"
+    },
+    "trebuemaatrebuuschaasatrebuetsa": {
+        "ru": "требуемая, требующаяся, требуется",
+        "he": "דרושה"
+    },
+    "trebovanie": {
+        "ru": "требование",
+        "he": "דרישה"
+    },
+    "privetkotoryjperedaut": {
+        "ru": "привет (который передают)",
+        "he": "דרישת-שלום ,ד\"ש"
+    },
+    "dorogaputysposobzhrcherezskvozy": {
+        "ru": "дорога, путь; способ (ж.р.); через, сквозь",
+        "he": "דרך"
+    },
+    "dorogiputisposoby": {
+        "ru": "дороги, пути; способы",
+        "he": "דרכים"
+    },
+    "schastlivogoputi": {
+        "ru": "Счастливого пути!",
+        "he": "דרך צלחה"
+    },
+    "zagranichnyjpasport": {
+        "ru": "(заграничный) паспорт",
+        "he": "דרכון"
+    },
+    "travagazon": {
+        "ru": "трава, газон",
+        "he": "דשא"
+    },
+    "synchastospritazhsuffiksom": {
+        "ru": "сын (часто с притяж.суффиксом)",
+        "he": "בן"
+    },
+    "synovya": {
+        "ru": "сыновья",
+        "he": "בנים"
+    },
+    "dvourodnyjbratsmihut": {
+        "ru": "двоюродный брат (смихут)",
+        "he": "בן-דוד"
+    },
+    "dostojnyjcheloveksmihut": {
+        "ru": "(достойный) человек (смихут)",
+        "he": "בן-אדם"
+    },
+    "postroennyjzastroennyjnastroennyj": {
+        "ru": "построенный; застроенный; настроенный",
+        "he": "בנוי"
+    },
+    "postroennaazastroennaanastroennaa": {
+        "ru": "построенная; застроенная; настроенная",
+        "he": "בנויה"
+    },
+    "stroitelystvostrojka": {
+        "ru": "строительство, стройка",
+        "he": "בנייה"
+    },
+    "stroeniezdaniebinyan": {
+        "ru": "строение; здание; биньян",
+        "he": "בניין"
+    },
+    "bank": {
+        "ru": "банк",
+        "he": "בנק"
+    },
+    "vporadkeokladno": {
+        "ru": "в порядке; ОК, ладно",
+        "he": "בסדר"
+    },
+    "vsevpolnomporadke": {
+        "ru": "всё в полном порядке",
+        "he": "בסדר גמור"
+    },
+    "zavpodderzhku": {
+        "ru": "за, в поддержку",
+        "he": "בעד"
+    },
+    "cherezvremapoproshestvii": {
+        "ru": "через (время), по прошествии",
+        "he": "בעוד"
+    },
+    "problemazadacha": {
+        "ru": "проблема; задача",
+        "he": "בעיה"
+    },
+    "muzhhozainvladelec": {
+        "ru": "муж; хозяин, владелец",
+        "he": "בעל"
+    },
+    "muzhyahozaevavladelecvladelycy": {
+        "ru": "мужья; хозяева; владелец, владельцы",
+        "he": "בעלים"
+    },
+    "hozaindomapredpriatia-smihut": {
+        "ru": "хозяин (дома/предприятия) - смихут",
+        "he": "בעל-הבית"
+    },
+    "hozajkadomapredpriatia-smihut": {
+        "ru": "хозяйка (дома/предприятия) - смихут",
+        "he": "בעלת-הבית"
+    },
+    "priblizitelynoprimerno": {
+        "ru": "приблизительно, примерно",
+        "he": "בערך"
+    },
+    "peredpomestu": {
+        "ru": "пЕред (по месту)",
+        "he": "בפני"
+    },
+    "vnutri": {
+        "ru": "внутри",
+        "he": "בפנים"
+    },
+    "lukovoschlukovica": {
+        "ru": "лук (овощ), луковица",
+        "he": "בצל"
+    },
+    "lukovicy": {
+        "ru": "луковицы",
+        "he": "בצלים"
+    },
+    "butylka": {
+        "ru": "бутылка",
+        "he": "בקבוק"
+    },
+    "prosyba": {
+        "ru": "просьба",
+        "he": "בקשה"
+    },
+    "vnasvazispopovodu": {
+        "ru": "в/на связи с; по поводу",
+        "he": "בקשר ל"
+    },
+    "peshkom": {
+        "ru": "пешком",
+        "he": "ברגל"
+    },
+    "blagoslovennyj": {
+        "ru": "благословенный",
+        "he": "ברוך"
+    },
+    "slavabogu": {
+        "ru": "Слава Богу!",
+        "he": "ברוך השם"
+    },
+    "dobropozhalovatykmuzhchine": {
+        "ru": "добро пожаловать (к мужчине)",
+        "he": "ברוך הבא"
+    },
+    "dobropozhalovatykzhenschine": {
+        "ru": "добро пожаловать (к женщине)",
+        "he": "ברוכה הבאה"
+    },
+    "dobropozhalovatykomnogimludam": {
+        "ru": "добро пожаловать (ко многим людям)",
+        "he": "ברוכים הבאים"
+    },
+    "asnyjponatnyjasnoponatno": {
+        "ru": "ясный, понятный; ясно, понятно",
+        "he": "ברור"
+    },
+    "asnaaponatnaa": {
+        "ru": "ясная, понятная",
+        "he": "ברורה"
+    },
+    "zdorovyjpoleznyjdlazdorovya": {
+        "ru": "здоровый; полезный для здоровья",
+        "he": "בריא"
+    },
+    "zdorovaapoleznaadlazdorovya": {
+        "ru": "здоровая; полезная для здоровья",
+        "he": "בריאה"
+    },
+    "zdorovye": {
+        "ru": "здоровье",
+        "he": "בריאות"
+    },
+    "pozdravlenieblagoslovenie": {
+        "ru": "поздравление; благословение",
+        "he": "ברכה"
+    },
+    "dla": {
+        "ru": "для",
+        "he": "בשביל"
+    },
+    "masoploty": {
+        "ru": "мясо; плоть",
+        "he": "בשׂר"
+    },
+    "dochychastospritazhatsuffiksom": {
+        "ru": "дочь(часто с притяжат.суффиксом)",
+        "he": "בת"
+    },
+    "docheridevushkizhenschiny": {
+        "ru": "дочери; девушки; женщины",
+        "he": "בנות"
+    },
+    "dvourodnaasestrasmihut": {
+        "ru": "двоюродная сестра (смихут)",
+        "he": "בת-דודה"
+    },
+    "priatnogoappetita": {
+        "ru": "приятного аппетита!",
+        "he": "בתיאבון"
+    },
+    "spina": {
+        "ru": "спина",
+        "he": "גב"
+    },
+    "vysokij": {
+        "ru": "высокий",
+        "he": "גבוה"
+    },
+    "vysokaa": {
+        "ru": "высокая",
+        "he": "גבוהה"
+    },
+    "granicamr": {
+        "ru": "граница (м.р.)",
+        "he": "גבול"
+    },
+    "granicy": {
+        "ru": "границы",
+        "he": "גבולות"
+    },
+    "syrtvorog": {
+        "ru": "сыр; творог",
+        "he": "גבינה"
+    },
+    "muzhchina": {
+        "ru": "мужчина",
+        "he": "גבר"
+    },
+    "muzhchiny": {
+        "ru": "мужчины",
+        "he": "גברים"
+    },
+    "damagospozha": {
+        "ru": "дама, госпожа",
+        "he": "גברת"
+    },
+    "kryshamr": {
+        "ru": "крыша (м.р.)",
+        "he": "גג"
+    },
+    "kryshi": {
+        "ru": "крыши",
+        "he": "גגות"
+    },
+    "bolyshojvelikij": {
+        "ru": "большой, великий",
+        "he": "גדול"
+    },
+    "bolyshaavelikaa": {
+        "ru": "большая, великая",
+        "he": "רבה"
+    },
+    "zaborogradazhr": {
+        "ru": "забор, ограда (ж.р.)",
+        "he": "גדר"
+    },
+    "zaboryogrady": {
+        "ru": "заборы, ограды",
+        "he": "גדרות"
+    },
+    "telotulovischekorpusinstanciauridicheskoelico": {
+        "ru": "тело, туловище, корпус; инстанция, юридическое лицо",
+        "he": "גוף"
+    },
+    "morkovy": {
+        "ru": "морковь",
+        "he": "גזר"
+    },
+    "mnogo": {
+        "ru": "много",
+        "he": "הרבה"
+    },
+    "chuvstvo": {
+        "ru": "чувство",
+        "he": "הרגשה"
+    },
+    "ubityj": {
+        "ru": "убитый",
+        "he": "הרוג"
+    },
+    "razrushennyjsnesennyj": {
+        "ru": "разрушенный; снесенный",
+        "he": "הרוס"
+    },
+    "vedyzhevot": {
+        "ru": "ведь, же; вот",
+        "he": "הרי"
+    },
+    "ubijstvonepredumyshlennoeumerschvlenie": {
+        "ru": "убийство (непредумышленное), умерщвление",
+        "he": "הריגה"
+    },
+    "beremennostymr": {
+        "ru": "беременность (м.р.)",
+        "he": "הריון"
+    },
+    "beremennosti": {
+        "ru": "беременности",
+        "he": "הריונות"
+    },
+    "razrushenierazvalinasnos": {
+        "ru": "разрушение; развалина; снос",
+        "he": "הריסה"
+    },
+    "vlianie": {
+        "ru": "влияние",
+        "he": "השפעה"
+    },
+    "sdachavarendunaem": {
+        "ru": "сдача в аренду/наём",
+        "he": "השׂכרה"
+    },
+    "nachalonachinanie": {
+        "ru": "начало, начинание",
+        "he": "התחלה"
+    },
+    "ia": {
+        "ru": "и, а",
+        "he": "ו"
+    },
+    "roza": {
+        "ru": "роза",
+        "he": "ורד"
+    },
+    "rozy": {
+        "ru": "розы",
+        "he": "ורדים"
+    },
+    "rozovyj": {
+        "ru": "розовый",
+        "he": "ורוד"
+    },
+    "rozovaa": {
+        "ru": "розовая",
+        "he": "ורודה"
+    },
+    "starozhilveteranstaryjbyvalyjmnogoletnij": {
+        "ru": "старожил,ветеран; старый,бывалый,многолетний",
+        "he": "ותיק"
+    },
+    "eta": {
+        "ru": "эта",
+        "he": "זאת"
+    },
+    "toestyinymislovami": {
+        "ru": "то есть, иными словами",
+        "he": "זאת אומרת"
+    },
+    "musorotbrosynavozudobrenie": {
+        "ru": "мусор, отбросы; навоз, удобрение",
+        "he": "זבל"
+    },
+    "etoetotvotuzhenekijsrok": {
+        "ru": "это, этот; вот уже (некий срок)",
+        "he": "זה"
+    },
+    "zoloto": {
+        "ru": "золото",
+        "he": "זהב"
+    },
+    "votetovotivseetototsamyj": {
+        "ru": "вот это; вот и всё; это тот самый",
+        "he": "זהו"
+    },
+    "identifikaciasamosoznanietozhdestvoidentichnostylichnyedannye": {
+        "ru": "идентификация, самосознание; тождество, идентичность; личные данные",
+        "he": "זהות"
+    },
+    "paramr": {
+        "ru": "пара (м.р.)",
+        "he": "זוג"
+    },
+    "pary": {
+        "ru": "пАры",
+        "he": "זוגות"
+    },
+    "vyigravshijpobeditelyvlotereeitp": {
+        "ru": "выигравший, победитель (в лотерее и т.п.)",
+        "he": "זוכה"
+    },
+    "deshevyj": {
+        "ru": "дешевый",
+        "he": "זול"
+    },
+    "steklo": {
+        "ru": "стекло",
+        "he": "זכוכית"
+    },
+    "vyigryshpoluchenieprizapremii": {
+        "ru": "выигрыш; получение (приза, премии)",
+        "he": "זכייה"
+    },
+    "pamatnyjhranimyjvpamati": {
+        "ru": "памятный, хранимый в памяти",
+        "he": "זכור"
+    },
+    "pamatnaahranimaavpamati": {
+        "ru": "памятная, хранимая в памяти",
+        "he": "זכורה"
+    },
+    "vrema": {
+        "ru": "время",
+        "he": "זמן"
+    },
+    "realynoevremasmihut": {
+        "ru": "реальное время (смихут)",
+        "he": "זמו אמת"
+    },
+    "pevec": {
+        "ru": "певец",
+        "he": "זמר"
+    },
+    "pevica": {
+        "ru": "певица",
+        "he": "זמרת"
+    },
+    "boroda": {
+        "ru": "борода",
+        "he": "זקן"
+    },
+    "starikstaryjocheloveke": {
+        "ru": "старик; старый (о человеке)",
+        "he": "זקן"
+    },
+    "starikistarye": {
+        "ru": "старики; старые",
+        "he": "זקנים"
+    },
+    "staruhastaraa": {
+        "ru": "старуха; старая",
+        "he": "זקנה"
+    },
+    "chuzhojinostrannyjinostranec": {
+        "ru": "чужой; иностранный; иностранец",
+        "he": "זר"
+    },
+    "buketvenok": {
+        "ru": "букет; венок",
+        "he": "זר"
+    },
+    "broshenyjnebrezhnonabroshennyjbogemnyj": {
+        "ru": "брошеный; (небрежно) наброшенный; богемный",
+        "he": "זרוק"
+    },
+    "broshenaanebrezhnonabroshennaabogemnaa": {
+        "ru": "брошеная; (небрежно) наброшенная; богемная",
+        "he": "זרוקה"
+    },
+    "brosokbrosanieukolinyekcia": {
+        "ru": "бросок, бросание; укол, инъекция",
+        "he": "זריקה"
+    },
+    "opredelennyjartikly": {
+        "ru": "определенный артикль",
+        "he": "ה"
+    },
+    "lirazve": {
+        "ru": "ли; разве",
+        "he": "האם"
+    },
+    "sleduuschijocherednoj": {
+        "ru": "следующий, очередной",
+        "he": "הבא"
+    },
+    "obeschanieobespecheniegarantirovanie": {
+        "ru": "обещание; обеспечение, гарантирование",
+        "he": "הבטחה"
+    },
+    "domoj": {
+        "ru": "домой",
+        "he": "הביתה"
+    },
+    "ponimanie": {
+        "ru": "понимание",
+        "he": "הבנה"
+    },
+    "uvelichenie": {
+        "ru": "увеличение",
+        "he": "הגדלה"
+    },
+    "pribytie": {
+        "ru": "прибытие",
+        "he": "הגעה"
+    },
+    "zazhiganievkluchenie": {
+        "ru": "зажигание, включение",
+        "he": "הדלקה"
+    },
+    "on": {
+        "ru": "он",
+        "he": "הוא"
+    },
+    "indiaindukindejkaindushatina": {
+        "ru": "Индия; индюк, индейка, индюшатина",
+        "he": "הודו"
+    },
+    "soobschenieizveschenie": {
+        "ru": "сообщение, извещение",
+        "he": "הודעה"
+    },
+    "nastoascheevremadejstvitelynosty": {
+        "ru": "настоящее время; действительность",
+        "he": "הווה"
+    },
+    "roditely": {
+        "ru": "родитель",
+        "he": "הורה"
+    },
+    "roditeli": {
+        "ru": "родители",
+        "he": "הורים"
+    },
+    "udobnyjsluchajokazia": {
+        "ru": "удобный случай, оказия",
+        "he": "הזדמנות"
+    },
+    "priglasheniezakaz": {
+        "ru": "приглашение; заказ",
+        "he": "הזמנה"
+    },
+    "naruzhu": {
+        "ru": "наружу",
+        "he": "החוצה"
+    },
+    "uderzhaniehranenie": {
+        "ru": "(у)держание, хранение",
+        "he": "החזקה"
+    },
+    "reshenienezadachiaprinatoepozhiznirezoluciapostanovlenie": {
+        "ru": "решение (не задачи, а принятое по жизни); резолюция, постановление",
+        "he": "החלטה"
+    },
+    "obmenzamena": {
+        "ru": "обмен; замена",
+        "he": "החלפה"
+    },
+    "ona": {
+        "ru": "она",
+        "he": "היא"
+    },
+    "vot": {
+        "ru": "вот",
+        "he": "הנה, הינה"
+    },
+    "samyj-ejshij": {
+        "ru": "самый, -ейший",
+        "he": "הכי"
+    },
+    "podgotovkaprigotovlenie": {
+        "ru": "подготовка, приготовление",
+        "he": "הכנה"
+    },
+    "vvodvvedenievneseniedohod": {
+        "ru": "ввод, введение, внесение; доход",
+        "he": "הכנסה"
+    },
+    "dalyshedalee": {
+        "ru": "дальше, далее",
+        "he": "הלאה"
+    },
+    "odezhda": {
+        "ru": "одежда",
+        "he": "הלבשה"
+    },
+    "hodybahozhdeniepohodka": {
+        "ru": "ходьба, хождение; походка",
+        "he": "הליכה"
+    },
+    "onimr": {
+        "ru": "они (м.р.)",
+        "he": "הם"
+    },
+    "rekomendacia": {
+        "ru": "рекомендация",
+        "he": "המלצה"
+    },
+    "prodolzhenie": {
+        "ru": "продолжение",
+        "he": "המשך"
+    },
+    "suda": {
+        "ru": "сюда",
+        "he": "הנה"
+    },
+    "skidkaustupkadopuscheniegipoteza": {
+        "ru": "скидка, уступка; допущение, гипотеза",
+        "he": "הנחה"
+    },
+    "soglasie": {
+        "ru": "согласие",
+        "he": "הסכמה"
+    },
+    "obratnyjperevernutyjprotivopolozhnyjnaoborot": {
+        "ru": "обратный, перевёрнутый, противоположный; наоборот",
+        "he": "הפוך"
+    },
+    "pereryvperemenaprekrascheniepreryvanie": {
+        "ru": "перерыв,перемена;прекращение;прерывание",
+        "he": "הפסקה"
+    },
+    "prekraschenieogna": {
+        "ru": "прекращение огня",
+        "he": "הפסקת אש"
+    },
+    "sdachanahranenievlozhenienabankovskijschet": {
+        "ru": "сдача на хранение;вложение на банковский счёт",
+        "he": "הפקדה"
+    },
+    "pomehaprepatstvienarushenie": {
+        "ru": "помеха, препятствие; нарушение",
+        "he": "הפרעה"
+    },
+    "uspehudacha": {
+        "ru": "успех, удача",
+        "he": "הצלחה"
+    },
+    "predlozhenienegrammaticheskoe": {
+        "ru": "предложение (не грамматическое)",
+        "he": "הצעה"
+    },
+    "umenyshenie": {
+        "ru": "уменьшение",
+        "he": "הקטנה"
+    },
+    "vnimatelynoeslushanie": {
+        "ru": "(внимательное) слушание",
+        "he": "הקשבה"
+    },
+    "gora": {
+        "ru": "гора",
+        "he": "הר"
+    },
+    "oknomr": {
+        "ru": "окно (м.р.)",
+        "he": "חלון"
+    },
+    "okna": {
+        "ru": "Окна",
+        "he": "חלונות"
+    },
+    "kostum": {
+        "ru": "костюм",
+        "he": "חליפה"
+    },
+    "chastydetaly": {
+        "ru": "часть, деталь",
+        "he": "חלק"
+    },
+    "chastidetali": {
+        "ru": "части, детали",
+        "he": "חלקים"
+    },
+    "gladkij": {
+        "ru": "гладкий",
+        "he": "חלק"
+    },
+    "slabyj": {
+        "ru": "слабый",
+        "he": "חלש"
+    },
+    "gorachijzharkijognestrelynyjgorachozharkosvekrtesty": {
+        "ru": "горячий, жаркий; огнестрельный; горячо, жарко; свёкр, тесть",
+        "he": "חם"
+    },
+    "slivochnoemaslo": {
+        "ru": "сливочное масло",
+        "he": "חמאה"
+    },
+    "patymr": {
+        "ru": "пять (м.р.)",
+        "he": "חמישה"
+    },
+    "patnadcatymr": {
+        "ru": "пятнадцать (м.р.)",
+        "he": "חמישה-עשׂר"
+    },
+    "patyj": {
+        "ru": "пятый",
+        "he": "חמישי"
+    },
+    "patydesat": {
+        "ru": "пятьдесят",
+        "he": "חמישים"
+    },
+    "patyzhr": {
+        "ru": "пять (ж.р.)",
+        "he": "חמש"
+    },
+    "patnadcatyzhr": {
+        "ru": "пятнадцать (ж.р.)",
+        "he": "חמש-עשׂרה"
+    },
+    "patytysach": {
+        "ru": "пять тысяч",
+        "he": "חמשת אלפים"
+    },
+    "magazin": {
+        "ru": "магазин",
+        "he": "חנות"
+    },
+    "ubka": {
+        "ru": "юбка",
+        "he": "חצאית"
+    },
+    "polnochy": {
+        "ru": "полночь",
+        "he": "חצות"
+    },
+    "polovina": {
+        "ru": "половина",
+        "he": "חצי"
+    },
+    "polchasasmihut": {
+        "ru": "полчаса (смихут)",
+        "he": "חצי שעה"
+    },
+    "polshekelasmihut": {
+        "ru": "полшекеля (смихут)",
+        "he": "חצי שקל"
+    },
+    "schetarifmetikamr": {
+        "ru": "счёт; арифметика (м.р.)",
+        "he": "חשבון"
+    },
+    "scheta": {
+        "ru": "счетА",
+        "he": "חשבונות"
+    },
+    "vazhnyjuvazhaemyj": {
+        "ru": "важный; уважаемый",
+        "he": "חשוב"
+    },
+    "myshlenie": {
+        "ru": "мышление",
+        "he": "חשיבה"
+    },
+    "elektrichestvo": {
+        "ru": "электричество",
+        "he": "חשמל"
+    },
+    "kot": {
+        "ru": "кот",
+        "he": "חתול"
+    },
+    "koshka": {
+        "ru": "кошка",
+        "he": "חתולה"
+    },
+    "podpisannyjpodpisavshijsazapechatannyjzakrytyj": {
+        "ru": "подписанный; подписавшийся; запечатанный, закрытый",
+        "he": "חתום"
+    },
+    "podpisypodpisanie": {
+        "ru": "подпись; подписание",
+        "he": "חתימה"
+    },
+    "prirodanaturaestestvo": {
+        "ru": "природа; натура, естество",
+        "he": "טבע"
+    },
+    "horoshohoroshij": {
+        "ru": "хорошо, хороший",
+        "he": "טוב"
+    },
+    "blankformular": {
+        "ru": "бланк, формуляр",
+        "he": "טופס"
+    },
+    "blankiformulary": {
+        "ru": "бланки, формуляры",
+        "he": "טפסים"
+    },
+    "zhareniezharka": {
+        "ru": "жарение, жарка",
+        "he": "טיגון"
+    },
+    "progulkaekskursia": {
+        "ru": "прогулка; экскурсия",
+        "he": "טיול"
+    },
+    "poletrejs": {
+        "ru": "полёт, рейс",
+        "he": "טיסה"
+    },
+    "uhodobsluzhivanielechenieprocedurazanatievoprosomproblemoj": {
+        "ru": "уход, обслуживание; лечение, процедура; занятие (вопросом, проблемой)",
+        "he": "טיפול"
+    },
+    "televizortelevidenie": {
+        "ru": "телевизор; телевидение",
+        "he": "טלוויזיה"
+    },
+    "telefontelefonnyjzvonok": {
+        "ru": "телефон; телефонный звонок",
+        "he": "טלפון"
+    },
+    "oshibka": {
+        "ru": "ошибка",
+        "he": "טעות"
+    },
+    "vkusnyj": {
+        "ru": "вкусный",
+        "he": "טעים"
+    },
+    "vkusnaadegustacia": {
+        "ru": "вкусная; дегустация",
+        "he": "טעימה"
+    },
+    "vkus": {
+        "ru": "вкус",
+        "he": "טעם"
+    },
+    "posylkasvertokpaket": {
+        "ru": "посылка; свёрток, пакет",
+        "he": "חבילה"
+    },
+    "zhalyzhalko": {
+        "ru": "жаль, жалко",
+        "he": "חבל"
+    },
+    "verevkarajonokrugmukatagota": {
+        "ru": "веревка; район, округ; мУка, тягота",
+        "he": "חבל"
+    },
+    "verevkirajonyokrugamukitagoty": {
+        "ru": "веревки; районы, округА; мУки, тяготы",
+        "he": "חבלים"
+    },
+    "drugtovarischbojfrendchlen": {
+        "ru": "друг, товарищ; бойфренд; член",
+        "he": "חבר"
+    },
+    "podrugagerlfrendzhenschina-chlenorganizacii": {
+        "ru": "подруга; гёрлфренд; женщина-член (организации)",
+        "he": "חברה"
+    },
+    "obschestvokompaniafirma": {
+        "ru": "общество; компания, фирма",
+        "he": "חברה"
+    },
+    "kompaniapriatelejvataga": {
+        "ru": "компания (приятелей), ватага",
+        "he": "חבר'ה"
+    },
+    "prazdnik": {
+        "ru": "праздник",
+        "he": "חג"
+    },
+    "pozdravlausprazdnikom": {
+        "ru": "поздравляю с праздником!",
+        "he": "חג שׂמח"
+    },
+    "komnatagostinichnyjnomerevrejskaareligioznaanachalynaashkola": {
+        "ru": "комната; (гостиничный) номер; еврейская религиозная начальная школа",
+        "he": "חדר"
+    },
+    "komnatygostinichnyenomera": {
+        "ru": "комнаты; (гостиничные) номера",
+        "he": "חדרים"
+    },
+    "stolovaasmihut": {
+        "ru": "столовая (смихут)",
+        "he": "חדר-אוכל"
+    },
+    "gostinaasmihut": {
+        "ru": "гостиная (смихут)",
+        "he": "חדר-אורחים"
+    },
+    "detskaakomnatasmihut": {
+        "ru": "детская комната (смихут)",
+        "he": "חדר-ילדים"
+    },
+    "spalynasmihut": {
+        "ru": "спальня (смихут)",
+        "he": "חדר-שינה"
+    },
+    "novyj": {
+        "ru": "новый",
+        "he": "חדש"
+    },
+    "novyezhrnovosti": {
+        "ru": "новые (ж.р.); новости",
+        "he": "חדשות"
+    },
+    "dolgmr": {
+        "ru": "долг (м.р.)",
+        "he": "חוב"
+    },
+    "dolgi": {
+        "ru": "долги",
+        "he": "חובות"
+    },
+    "mesac": {
+        "ru": "месяц",
+        "he": "חודש"
+    },
+    "2mesaca": {
+        "ru": "2 месяца",
+        "he": "חודשיים"
+    },
+    "3iboleemesaca": {
+        "ru": "(3 и более) месяца",
+        "he": "חודשים"
+    },
+    "dogovorkontraktprovidec": {
+        "ru": "договор, контракт; провидец",
+        "he": "חוזה"
+    },
+    "pesokbudnimrsvetskijneosvaschennyj": {
+        "ru": "песок; будни (м.р.); светский, неосвящённый",
+        "he": "חול"
+    },
+    "peski": {
+        "ru": "пески",
+        "he": "חולות"
+    },
+    "bolynojpacient": {
+        "ru": "больной; пациент",
+        "he": "חולה"
+    },
+    "bolynaapacientka": {
+        "ru": "больная; пациентка",
+        "he": "חולה"
+    },
+    "rubashkabluzkafutbolka": {
+        "ru": "рубашка; блузка; футболка",
+        "he": "חולצה"
+    },
+    "zharazharvysokaatemperatura": {
+        "ru": "жара; жар, высокая температура",
+        "he": "חום"
+    },
+    "korichnevyjkarij": {
+        "ru": "коричневый, карий",
+        "he": "חום"
+    },
+    "beregmoraozera": {
+        "ru": "берег (моря, озера)",
+        "he": "חוף"
+    },
+    "svobodavola": {
+        "ru": "свобода, воля",
+        "he": "חופש"
+    },
+    "otpuskkanikuly": {
+        "ru": "отпуск, каникулы",
+        "he": "חופשה"
+    },
+    "vnevneshnij": {
+        "ru": "вне; внешний",
+        "he": "חוץ"
+    },
+    "krome": {
+        "ru": "кроме",
+        "he": "חוץ מ"
+    },
+    "zagranica": {
+        "ru": "заграница",
+        "he": "חו\"ל , חוץ לארץ"
+    },
+    "zima": {
+        "ru": "зима",
+        "he": "חורף"
+    },
+    "silynyjkrepkij": {
+        "ru": "сильный; крепкий",
+        "he": "חזק"
+    },
+    "povtorenievozvraschenierepeticiaobratno": {
+        "ru": "повторение; возвращение; репетиция; обратно",
+        "he": "חזרה"
+    },
+    "zhivojzhivuschijsuschijpramojefirfauna": {
+        "ru": "живой, живущий, сущий; прямой (эфир); фауна",
+        "he": "חי"
+    },
+    "podsoedinenieskreplenieslozheniesochinenie": {
+        "ru": "(под)соединение; скрепление; сложение; сочинение",
+        "he": "חיבור"
+    },
+    "zveryzhivotnoe": {
+        "ru": "зверь, животное",
+        "he": "חיה"
+    },
+    "dolzhendenygiobazanvinovendolzhnik": {
+        "ru": "должен (деньги); обязан; виновен; должник",
+        "he": "חייב"
+    },
+    "dolzhnadenygiobazana": {
+        "ru": "должна (деньги); обязана",
+        "he": "חייבת"
+    },
+    "muzhchina-soldat": {
+        "ru": "мужчина-солдат",
+        "he": "חייל"
+    },
+    "zhenschina-soldat": {
+        "ru": "женщина-солдат",
+        "he": "חיילת"
+    },
+    "zhiznyvsegdavomnch": {
+        "ru": "жизнь (всегда во мн.ч.)",
+        "he": "חיים"
+    },
+    "besplatnonaprasnozra": {
+        "ru": "бесплатно; напрасно, зря",
+        "he": "חינם"
+    },
+    "hajfa": {
+        "ru": "Хайфа",
+        "he": "חיפה"
+    },
+    "poiskrozysk": {
+        "ru": "поиск, розыск",
+        "he": "חיפושׂ"
+    },
+    "umnyjmudrec": {
+        "ru": "умный; мудрец",
+        "he": "חכם"
+    },
+    "moloko": {
+        "ru": "молоко",
+        "he": "חלב"
+    },
+    "kakbybudto": {
+        "ru": "как бы, будто",
+        "he": "כאילו"
+    },
+    "takie": {
+        "ru": "такие",
+        "he": "כאלה, כאלו"
+    },
+    "zdesytut": {
+        "ru": "здесь, тут",
+        "he": "פה"
+    },
+    "kogdanevoprosvtotmomentkogda": {
+        "ru": "когда (не вопрос), в (тот) момент когда",
+        "he": "כש"
+    },
+    "pechenytazhelyjtazhkijveskij": {
+        "ru": "печень; тяжёлый, тяжкий; веский",
+        "he": "כבד"
+    },
+    "tazhelaatazhkaaveskaa": {
+        "ru": "тяжёлая, тяжкая; веская",
+        "he": "כבדה"
+    },
+    "stirkabelye": {
+        "ru": "стирка; бельё",
+        "he": "כביסה"
+    },
+    "shosseproezzhaachasty": {
+        "ru": "шоссе; проезжая часть",
+        "he": "כביש"
+    },
+    "uzhe": {
+        "ru": "уже",
+        "he": "כבר"
+    },
+    "stoitvygodnocelesoobraznoimeetsmysl": {
+        "ru": "стОит, выгодно, целесообразно, имеет смысл",
+        "he": "כדאי"
+    },
+    "machsharpulatabletka": {
+        "ru": "мяч; шар; пуля; таблетка",
+        "he": "כדור"
+    },
+    "zemnojsharsmihut": {
+        "ru": "земной шар (смихут)",
+        "he": "כדור הארץ"
+    },
+    "stemchtobyscelyu": {
+        "ru": "(с тем) чтобы, с целью",
+        "he": "כדי"
+    },
+    "shapkashlapa": {
+        "ru": "шапка, шляпа",
+        "he": "כובע"
+    },
+    "silamr": {
+        "ru": "сила (м.р.)",
+        "he": "כוח"
+    },
+    "sily": {
+        "ru": "силы",
+        "he": "כוחות"
+    },
+    "rabochaasilakadry": {
+        "ru": "рабочая сила; кадры",
+        "he": "כוח-אדם"
+    },
+    "vseoniludi": {
+        "ru": "все (они/люди)",
+        "he": "כולם"
+    },
+    "stakanchashkabokal": {
+        "ru": "стакан, чашка; бокал",
+        "he": "כוס"
+    },
+    "kreslo": {
+        "ru": "кресло",
+        "he": "כורסה"
+    },
+    "takoj": {
+        "ru": "такой",
+        "he": "כזה"
+    },
+    "takaa": {
+        "ru": "такая",
+        "he": "כזאת"
+    },
+    "sinij": {
+        "ru": "синий",
+        "he": "כחול"
+    },
+    "sinaa": {
+        "ru": "синяя",
+        "he": "כחולה"
+    },
+    "potomuchtotakkakchto": {
+        "ru": "потому что, так как; что",
+        "he": "כי"
+    },
+    "ploschadybuhankamr": {
+        "ru": "площадь; буханка (м.р.)",
+        "he": "כיכר"
+    },
+    "ploschadibuhanki": {
+        "ru": "площади; буханки",
+        "he": "כיכרות"
+    },
+    "stulmr": {
+        "ru": "стул (м.р.)",
+        "he": "כיסא"
+    },
+    "stulya": {
+        "ru": "стулья",
+        "he": "כיסאות"
+    },
+    "klassvshkoleotdelenievarmii": {
+        "ru": "класс (в школе); отделение (в армии)",
+        "he": "כיתה"
+    },
+    "tak": {
+        "ru": "так",
+        "he": "כך"
+    },
+    "vottaktakimobrazom": {
+        "ru": "вот так, таким образом",
+        "he": "ככה"
+    },
+    "taksebesredne": {
+        "ru": "тАк себе, средне",
+        "he": "ככה-ככה"
+    },
+    "kazhdyjvesyvse": {
+        "ru": "каждый; весь; все",
+        "he": "כל"
+    },
+    "kazhdyjchelovek": {
+        "ru": "каждый (человек)",
+        "he": "כל אחד"
+    },
+    "nastolykodotakojstepeni": {
+        "ru": "настолько, до такой степени",
+        "he": "כל-כך"
+    },
+    "sobakapeskobelymr": {
+        "ru": "собака, пёс, кобель (м.р.)",
+        "he": "כלב"
+    },
+    "sobakipsykobelamr": {
+        "ru": "собаки, псы, кобеля (м.р.)",
+        "he": "כלבים"
+    },
+    "sobakasukazhr": {
+        "ru": "собака, сука (ж.р.)",
+        "he": "כלבה"
+    },
+    "nichtonichego": {
+        "ru": "ничто, ничего",
+        "he": "שום דבר"
+    },
+    "pravilo": {
+        "ru": "правило",
+        "he": "כלל"
+    },
+    "skolykoneskolykonaskolyko": {
+        "ru": "сколько; несколько; насколько",
+        "he": "כמה"
+    },
+    "kakpodobno": {
+        "ru": "как, подобно",
+        "he": "כמו"
+    },
+    "pochti": {
+        "ru": "почти",
+        "he": "כמעט"
+    },
+    "daiskrennijatakzhe": {
+        "ru": "да; искренний; а также",
+        "he": "כן"
+    },
+    "vhodvhozhdenievstuplenie": {
+        "ru": "вход; вхождение, вступление",
+        "he": "כניסה"
+    },
+    "sobranieknesset": {
+        "ru": "собрание; Кнессет",
+        "he": "כנסת"
+    },
+    "denygiserebro": {
+        "ru": "деньги; серебро",
+        "he": "כסף"
+    },
+    "finansy": {
+        "ru": "финансы",
+        "he": "כספים"
+    },
+    "stolovaalozhkaladonychashavesovzhr": {
+        "ru": "(столовая) ложка; ладонь; чаша весов (ж.р.)",
+        "he": "כף"
+    },
+    "ladoniladoshi": {
+        "ru": "ладони, ладоши",
+        "he": "כפיים"
+    },
+    "stolovyelozhki": {
+        "ru": "(столовые) ложки",
+        "he": "כפים"
+    },
+    "kistyrukismihut": {
+        "ru": "кисть руки (смихут)",
+        "he": "כף יד"
+    },
+    "stopastupnasmihut": {
+        "ru": "стопа, ступня (смихут)",
+        "he": "כף רגל"
+    },
+    "chajnaalozhkalozhechka": {
+        "ru": "(чайная) ложка, ложечка",
+        "he": "כפית"
+    },
+    "seloderevna": {
+        "ru": "село, деревня",
+        "he": "כפר"
+    },
+    "biletkartochka": {
+        "ru": "билет; карточка",
+        "he": "כרטיס"
+    },
+    "napisannyjnapisano": {
+        "ru": "написанный, написано",
+        "he": "כתוב"
+    },
+    "napisannaa": {
+        "ru": "написанная",
+        "he": "כתובה"
+    },
+    "oranzhevyj": {
+        "ru": "оранжевый",
+        "he": "כתום"
+    },
+    "oranzhevaa": {
+        "ru": "оранжевая",
+        "he": "כתומה"
+    },
+    "adresnadpisy": {
+        "ru": "адрес; надпись",
+        "he": "כתובת"
+    },
+    "pisanieprocess": {
+        "ru": "писание (процесс)",
+        "he": "כתיבה"
+    },
+    "suhoj": {
+        "ru": "сухой",
+        "he": "יבש"
+    },
+    "rukazhr": {
+        "ru": "рука (ж.р.)",
+        "he": "יד"
+    },
+    "ruki": {
+        "ru": "рУки",
+        "he": "ידיים"
+    },
+    "sovtoryhrukbupoderzhannyjaa": {
+        "ru": "со вторых рук, б/у, подержанн|ый/ая",
+        "he": "יד שנייה"
+    },
+    "izvestnyjznamenityj": {
+        "ru": "известный, знаменитый",
+        "he": "ידוע"
+    },
+    "izvestnaaznamenitaa": {
+        "ru": "известная, знаменитая",
+        "he": "ידועה"
+    },
+    "tovarischpriately": {
+        "ru": "товарищ, приятель",
+        "he": "ידיד"
+    },
+    "podruzhkapriatelynica": {
+        "ru": "подружка, приятельница",
+        "he": "ידידה"
+    },
+    "vestyizvestieznanie": {
+        "ru": "весть, известие; знание",
+        "he": "ידיעה"
+    },
+    "evrejskijiudejskij": {
+        "ru": "еврей(ский), иудей(ский)",
+        "he": "יהודי"
+    },
+    "evrejkaiudejka": {
+        "ru": "еврейка, иудейка",
+        "he": "יהודיה"
+    },
+    "evrejskaaiudejskaa": {
+        "ru": "еврейская, иудейская",
+        "he": "יהודית"
+    },
+    "rozhauschaarozhenica": {
+        "ru": "рожающая, роженица",
+        "he": "יולדת"
+    },
+    "iuly": {
+        "ru": "июль",
+        "he": "יולי"
+    },
+    "deny": {
+        "ru": "день",
+        "he": "יום"
+    },
+    "2dna": {
+        "ru": "2 дня",
+        "he": "יומיים"
+    },
+    "3iboleedna": {
+        "ru": "(3 и более) дня",
+        "he": "ימים"
+    },
+    "denyrozhdeniasmihut": {
+        "ru": "день рождения (смихут)",
+        "he": "יום-הולדת"
+    },
+    "iuny": {
+        "ru": "июнь",
+        "he": "יוני"
+    },
+    "krasotazamechatelyno": {
+        "ru": "красота; замечательно!",
+        "he": "יופי"
+    },
+    "vyhodaschijvyhodec": {
+        "ru": "выходящий; выходец",
+        "he": "יוצא"
+    },
+    "iskluchenieiskluchitelynyj": {
+        "ru": "исключение; исключительный",
+        "he": "יוצא מן הכלל"
+    },
+    "snizhauschijsaopuskauschijsauehavshijizizrailanapmzh": {
+        "ru": "снижающийся, опускающийся; уехавший из Израиля на ПМЖ",
+        "he": "יורד"
+    },
+    "sidaschij": {
+        "ru": "сидящий",
+        "he": "יושב"
+    },
+    "predsedatelysmihut": {
+        "ru": "председатель (смихут)",
+        "he": "יושב-ראש, יו\"ר"
+    },
+    "predsedatelynicasmihut": {
+        "ru": "председательница (смихут)",
+        "he": "יושבת-ראש"
+    },
+    "bolyshebolee": {
+        "ru": "больше, более",
+        "he": "יותר"
+    },
+    "slishkommnogo": {
+        "ru": "слишком (много)",
+        "he": "יותר מדי"
+    },
+    "vinomr": {
+        "ru": "вино (м.р.)",
+        "he": "יין"
+    },
+    "vina": {
+        "ru": "вИна",
+        "he": "יינות"
+    },
+    "malychikrebenok": {
+        "ru": "мальчик; ребёнок",
+        "he": "ילד"
+    },
+    "malychikideti": {
+        "ru": "мальчики; дети",
+        "he": "ילדים"
+    },
+    "devochka": {
+        "ru": "девочка",
+        "he": "ילדה"
+    },
+    "novorozhdennyj": {
+        "ru": "(ново)рожденный",
+        "he": "ילוד"
+    },
+    "more": {
+        "ru": "море",
+        "he": "ים"
+    },
+    "sredizemnoemore": {
+        "ru": "Средиземное море",
+        "he": "הים התיכון"
+    },
+    "krasnoemore": {
+        "ru": "Красное море",
+        "he": "ים סוף"
+    },
+    "mertvoemoresmihutdoslmoresoli": {
+        "ru": "Мёртвое море (смихут: досл. \"Море соли\")",
+        "he": "ים המלח"
+    },
+    "ozerokinerettiveriadskoe": {
+        "ru": "озеро Кинерет (Тивериадское)",
+        "he": "ים כינרת"
+    },
+    "pravyjpravaastorona": {
+        "ru": "правый; правая сторона",
+        "he": "ימין"
+    },
+    "napravovpravo": {
+        "ru": "направо, вправо",
+        "he": "ימינה"
+    },
+    "anvary": {
+        "ru": "январь",
+        "he": "ינואר"
+    },
+    "lesmr": {
+        "ru": "лес (м.р.)",
+        "he": "יער"
+    },
+    "lesa": {
+        "ru": "лесА",
+        "he": "יערות"
+    },
+    "krasivyjkrasivozamechatelyno": {
+        "ru": "красивый; красиво, замечательно",
+        "he": "יפה"
+    },
+    "vyhod": {
+        "ru": "выход",
+        "he": "יציאה"
+    },
+    "dorogojcennyj": {
+        "ru": "дорогОй, ценный",
+        "he": "יקר"
+    },
+    "dorogaacennaa": {
+        "ru": "дорогая, ценная",
+        "he": "יקרה"
+    },
+    "zelenyj": {
+        "ru": "зеленый",
+        "he": "ירוק"
+    },
+    "zelenaa": {
+        "ru": "зеленая",
+        "he": "ירוקה"
+    },
+    "ierusalim": {
+        "ru": "Иерусалим",
+        "he": "ירושלים"
+    },
+    "spusksnizhenieponizhenieotyezdizizraila": {
+        "ru": "спуск, снижение, понижение; отъезд из Израиля",
+        "he": "ירידה"
+    },
+    "ovoschzelenymr": {
+        "ru": "овощ; зелень (м.р.)",
+        "he": "ירק"
+    },
+    "ovoschi": {
+        "ru": "овощи",
+        "he": "ירקות"
+    },
+    "estyimeetsanadlezhitnado": {
+        "ru": "есть, имеется; надлежит, надо",
+        "he": "יש"
+    },
+    "zasedaniesideniesidenyeeshibot": {
+        "ru": "заседание; сидение; сиденье; ешибот",
+        "he": "ישיבה"
+    },
+    "pramojneposredstvennyjekspress": {
+        "ru": "прямой, непосредственный; экспресс",
+        "he": "ישיר"
+    },
+    "pramaaneposr-naabesperesadochnaa": {
+        "ru": "прямая, непоср-ная; беспересадочная",
+        "he": "ישירה"
+    },
+    "staryjoveschiavlenii": {
+        "ru": "старый (о вещи, явлении)",
+        "he": "ישן"
+    },
+    "staraa": {
+        "ru": "старая",
+        "he": "ישנה"
+    },
+    "pramojoliniipramochestnyj": {
+        "ru": "прямой (о линии); прямо; честный",
+        "he": "ישר"
+    },
+    "pramaachestnaa": {
+        "ru": "прямая; честная",
+        "he": "ישרה"
+    },
+    "kakvkachestveprimernopriblizitelyno": {
+        "ru": "как, в качестве; примерно, приблизительно",
+        "he": "כ"
+    },
+    "operaciakampaniameropriatieakciarasprodazhasoskidkami": {
+        "ru": "операция, кампания, мероприятие; акция, распродажа со скидками",
+        "he": "מבצע"
+    },
+    "posetitelykritikkontrolerrevizor": {
+        "ru": "посетитель; критик; контролёр, ревизор",
+        "he": "מבקר"
+    },
+    "prositelyprosaschijpretenduuschij": {
+        "ru": "проситель; просящий, претендующий",
+        "he": "מבקש"
+    },
+    "polagauschijsaprichitauschijsa": {
+        "ru": "полагающийся, причитающийся",
+        "he": "מגיע"
+    },
+    "govoraschij": {
+        "ru": "говорящий",
+        "he": "מדבר"
+    },
+    "pustynamr": {
+        "ru": "пустыня (м.р.)",
+        "he": "מדבר"
+    },
+    "pustyni": {
+        "ru": "пустыни",
+        "he": "מדבריות"
+    },
+    "pochemu": {
+        "ru": "почему",
+        "he": "למה"
+    },
+    "izmerenieprimerka": {
+        "ru": "измерение; примерка",
+        "he": "מדידה"
+    },
+    "nauka": {
+        "ru": "наука",
+        "he": "מדע"
+    },
+    "chtovoproskakojkak": {
+        "ru": "что (вопрос); какой; как",
+        "he": "מה"
+    },
+    "kakdelakakpozhivaeshykmuzhchinezhenschine": {
+        "ru": "Как дела? Как поживаешь? (к мужчине/женщине)",
+        "he": "מה שלומך"
+    },
+    "bystryjskoryjskorostnoj": {
+        "ru": "быстрый; скорый, скоростной",
+        "he": "מהיר"
+    },
+    "bystraaskorostnaa": {
+        "ru": "быстрая; скор(остн)ая",
+        "he": "מהירה"
+    },
+    "inzhener": {
+        "ru": "инженер",
+        "he": "מהנדס"
+    },
+    "zhenschina-inzhener": {
+        "ru": "женщина-инженер",
+        "he": "מהנדסת"
+    },
+    "bystro": {
+        "ru": "быстро",
+        "he": "מהר"
+    },
+    "bezrabotnyj": {
+        "ru": "безработный",
+        "he": "מובטל"
+    },
+    "bezrabotnaa": {
+        "ru": "безработная",
+        "he": "מובטלת"
+    },
+    "obyavlenie": {
+        "ru": "объявление",
+        "he": "מודעה"
+    },
+    "smerty": {
+        "ru": "смерть",
+        "he": "מוות"
+    },
+    "strannyjstranno": {
+        "ru": "странный, странно",
+        "he": "מוזר"
+    },
+    "gotovyj": {
+        "ru": "готов(ый)",
+        "he": "מוכן"
+    },
+    "prodavec": {
+        "ru": "продавец",
+        "he": "מוכר"
+    },
+    "prodavschica": {
+        "ru": "продавщица",
+        "he": "מוכרת"
+    },
+    "naprotivpredlog": {
+        "ru": "напротив (предлог)",
+        "he": "מול"
+    },
+    "taksi": {
+        "ru": "такси",
+        "he": "מונית"
+    },
+    "ranorannijpredvaritelynyj": {
+        "ru": "рано; ранний; предварительный",
+        "he": "מוקדם"
+    },
+    "uchitelyprepodavately": {
+        "ru": "учитель, преподаватель",
+        "he": "מורה"
+    },
+    "uchitelynicaprepodavatelynica": {
+        "ru": "учительница, преподавательница",
+        "he": "מורה"
+    },
+    "mozhnorazreshenorazreshennyj": {
+        "ru": "можно, разрешено; разрешенный",
+        "he": "מותר"
+    },
+    "pogodasmihut": {
+        "ru": "погода (смихут)",
+        "he": "מזג-אוויר"
+    },
+    "kondicioner": {
+        "ru": "кондиционер",
+        "he": "מזגן"
+    },
+    "stareuschijpozhiloj": {
+        "ru": "стареющий, пожилой",
+        "he": "מזדקן"
+    },
+    "chemodan": {
+        "ru": "чемодан",
+        "he": "מזוודה"
+    },
+    "sekretary": {
+        "ru": "секретарь",
+        "he": "מזכיר"
+    },
+    "sekretarsha": {
+        "ru": "секретарша",
+        "he": "מזכירה"
+    },
+    "udachavezeniesudybarokznakzodiaka": {
+        "ru": "удача, везение; судьба, рок; знак Зодиака",
+        "he": "מזל"
+    },
+    "znakizodiaka": {
+        "ru": "знаки Зодиака",
+        "he": "מזלות"
+    },
+    "pozdravlaupozdravlaem": {
+        "ru": "поздравляю! поздравляем!",
+        "he": "מזל טוב"
+    },
+    "vilkazhr": {
+        "ru": "вилка (ж.р.)",
+        "he": "מזלג"
+    },
+    "vilki": {
+        "ru": "вилки",
+        "he": "מזלגות"
+    },
+    "davno": {
+        "ru": "давно",
+        "he": "מזמן"
+    },
+    "vostok": {
+        "ru": "восток",
+        "he": "מזרח"
+    },
+    "navostokkvostoku": {
+        "ru": "на восток, к востоку",
+        "he": "מזרחה"
+    },
+    "tetrady": {
+        "ru": "тетрадь",
+        "he": "מחברת"
+    },
+    "derzhatelyobladately": {
+        "ru": "держатель; обладатель",
+        "he": "מחזיק"
+    },
+    "brelokderzhatelydlakluchejsmihut": {
+        "ru": "брелок/держатель для ключей (смихут)",
+        "he": "מחזיק מפתחות"
+    },
+    "cena": {
+        "ru": "цена",
+        "he": "מחיר"
+    },
+    "bolezny": {
+        "ru": "болезнь",
+        "he": "מחלה"
+    },
+    "podmenauschijzameschauschijsmenschik": {
+        "ru": "подменяющий, замещающий; сменщик",
+        "he": "מחליף"
+    },
+    "podmenauschaazameschauschaasmenschica": {
+        "ru": "подменяющая, замещающая; сменщица",
+        "he": "מחליפה"
+    },
+    "otdelvzvod": {
+        "ru": "отдел; взвод",
+        "he": "מחלקה"
+    },
+    "zavtra": {
+        "ru": "завтра",
+        "he": "מחר"
+    },
+    "poslezavtra": {
+        "ru": "послезавтра",
+        "he": "מחרתיים"
+    },
+    "kompyuter": {
+        "ru": "компьютер",
+        "he": "מחשב"
+    },
+    "kvkuda-todatelynyjpadezh": {
+        "ru": "к, в (куда-то); дательный падеж",
+        "he": "ל"
+    },
+    "nenet": {
+        "ru": "не, нет",
+        "he": "לא"
+    },
+    "medlenno": {
+        "ru": "медленно",
+        "he": "לאט"
+    },
+    "postepennoponemnogu": {
+        "ru": "постепенно, понемногу",
+        "he": "לאט-לאט"
+    },
+    "kuda": {
+        "ru": "куда",
+        "he": "לאן"
+    },
+    "serdceseredinacentr": {
+        "ru": "сердце; середина, центр",
+        "he": "לב"
+    },
+    "serdca": {
+        "ru": "сердцА",
+        "he": "לבבות"
+    },
+    "samodinodinokij": {
+        "ru": "сам; один, одинокий",
+        "he": "לבד"
+    },
+    "odetyj": {
+        "ru": "одетый",
+        "he": "לבוש"
+    },
+    "odetaa": {
+        "ru": "одетая",
+        "he": "לבושה"
+    },
+    "belyj": {
+        "ru": "белый",
+        "he": "לבן"
+    },
+    "belaaluna": {
+        "ru": "белая; луна",
+        "he": "לבנה"
+    },
+    "belyebelye": {
+        "ru": "белые; бельё",
+        "he": "לבנים"
+    },
+    "dosvidaniavidetysa": {
+        "ru": "до свидания; видеться",
+        "he": "להתראות"
+    },
+    "doskakalendarytabloskrizhalymr": {
+        "ru": "доска; календарь; табло; скрижаль (м.р.)",
+        "he": "לוח"
+    },
+    "doskikalendariskrizhali": {
+        "ru": "дОски; календари; скрижали",
+        "he": "לוחות"
+    },
+    "hleb": {
+        "ru": "хлеб",
+        "he": "לחם"
+    },
+    "hleba": {
+        "ru": "хлебА",
+        "he": "לחמים"
+    },
+    "okolovozle": {
+        "ru": "около, возле",
+        "he": "על-יד"
+    },
+    "nochymr": {
+        "ru": "ночь (м.р.)",
+        "he": "לילה"
+    },
+    "nochi": {
+        "ru": "ночи",
+        "he": "לילות"
+    },
+    "spokojnojnochi": {
+        "ru": "спокойной ночи",
+        "he": "לילה טוב"
+    },
+    "vecherprazdnovaniapesahasmihut": {
+        "ru": "вечер празднования Песаха (смихут)",
+        "he": "ליל הסדר"
+    },
+    "uchebaobuchenie": {
+        "ru": "учёба, обучение",
+        "he": "לימוד"
+    },
+    "limon": {
+        "ru": "лимон",
+        "he": "לימון"
+    },
+    "grazy": {
+        "ru": "грязь",
+        "he": "לכלוך"
+    },
+    "poetomu": {
+        "ru": "поэтому",
+        "he": "לכן"
+    },
+    "kchemuzachem": {
+        "ru": "к чему, зачем",
+        "he": "למה"
+    },
+    "vnizvnizunizhe": {
+        "ru": "вниз; внизу; ниже",
+        "he": "למטה"
+    },
+    "uchebauchenie": {
+        "ru": "учёба, учение",
+        "he": "למידה"
+    },
+    "vverhnaverhusvyshe": {
+        "ru": "вверх; наверху; свыше",
+        "he": "למעלה"
+    },
+    "nesmotranavopreki": {
+        "ru": "несмотря на, вопреки",
+        "he": "למרות"
+    },
+    "nesmotranatochto": {
+        "ru": "несмотря на то что",
+        "he": "למרות ש"
+    },
+    "naprimer": {
+        "ru": "например",
+        "he": "למשל"
+    },
+    "inogdavremenami": {
+        "ru": "иногда, временами",
+        "he": "לעתים"
+    },
+    "chasto": {
+        "ru": "часто",
+        "he": "לעתים קרובות"
+    },
+    "redko": {
+        "ru": "редко",
+        "he": "לעתים רחוקות"
+    },
+    "doranyshepered": {
+        "ru": "до, раньше, пЕред",
+        "he": "לפני"
+    },
+    "inogda": {
+        "ru": "иногда",
+        "he": "לפעמים"
+    },
+    "vzatyjzaimstvovannyj": {
+        "ru": "взятый, заимствованный",
+        "he": "לקוח"
+    },
+    "vzataazaimstvovannaa": {
+        "ru": "взятая, заимствованная",
+        "he": "לקוחה"
+    },
+    "klient": {
+        "ru": "клиент",
+        "he": "לקוח"
+    },
+    "klientka": {
+        "ru": "клиентка",
+        "he": "לקוחה"
+    },
+    "klientyklientki": {
+        "ru": "клиенты; клиентки",
+        "he": "לקוחות"
+    },
+    "vzatie": {
+        "ru": "взятие",
+        "he": "לקיחה"
+    },
+    "azykzhr": {
+        "ru": "язык (ж.р.)",
+        "he": "לשון"
+    },
+    "azyki": {
+        "ru": "языки",
+        "he": "לשונות"
+    },
+    "izsotchem": {
+        "ru": "из, с, от, чем",
+        "he": "מ"
+    },
+    "stosotnavek": {
+        "ru": "сто, сотня; век",
+        "he": "מאה"
+    },
+    "ocheny": {
+        "ru": "очень",
+        "he": "מאוד"
+    },
+    "pozdnijpozdno": {
+        "ru": "поздний, поздно",
+        "he": "מאוחר"
+    },
+    "maj": {
+        "ru": "май",
+        "he": "מאי"
+    },
+    "otkuda": {
+        "ru": "откуда",
+        "he": "מאין"
+    },
+    "veruuschijveraschij": {
+        "ru": "верующий, верящий",
+        "he": "מאמין"
+    },
+    "mart": {
+        "ru": "март",
+        "he": "מרץ"
+    },
+    "dvesti": {
+        "ru": "двести",
+        "he": "מאתיים"
+    },
+    "vzroslyjpozhiloj": {
+        "ru": "взрослый; пожилой",
+        "he": "מבוגר"
+    },
+    "ekzamentestkontrolynaarabota": {
+        "ru": "экзамен, тест; контрольная работа",
+        "he": "מבחן"
+    },
+    "parikmaherskaa": {
+        "ru": "парикмахерская",
+        "he": "מספרה"
+    },
+    "nozhnicy": {
+        "ru": "ножницы",
+        "he": "מספריים"
+    },
+    "malonemnogo": {
+        "ru": "мало, немного",
+        "he": "מעט"
+    },
+    "palytokurtka": {
+        "ru": "пальто, куртка",
+        "he": "מעיל"
+    },
+    "plaschdozhdevik": {
+        "ru": "плащ, дождевик",
+        "he": "מעיל גשם"
+    },
+    "nadsverhsvyshe": {
+        "ru": "над, сверх, свыше",
+        "he": "מעל"
+    },
+    "interesnyj": {
+        "ru": "интересный",
+        "he": "מעניין"
+    },
+    "zapad": {
+        "ru": "запад",
+        "he": "מערב"
+    },
+    "nazapadkzapadu": {
+        "ru": "на запад, к западу",
+        "he": "מערבה"
+    },
+    "kuraschijkurilyschik": {
+        "ru": "курящий, курильщик",
+        "he": "מעשן"
+    },
+    "skatertygeograficheskaakarta": {
+        "ru": "скатерть; географическая карта",
+        "he": "מפה"
+    },
+    "otsuda": {
+        "ru": "отсюда",
+        "he": "מכאן"
+    },
+    "predpriatiezavodmeropriatie": {
+        "ru": "предприятие; завод; мероприятие",
+        "he": "מפעל"
+    },
+    "kluchkriterijpredmetnyjukazatelymr": {
+        "ru": "ключ; критерий; предметный указатель (м.р.)",
+        "he": "מפתח"
+    },
+    "kluchi": {
+        "ru": "ключи",
+        "he": "מפתחות"
+    },
+    "polozheniesostoaniesituacia": {
+        "ru": "положение, состояние, ситуация",
+        "he": "מצב"
+    },
+    "nastroeniesmihut": {
+        "ru": "настроение (смихут)",
+        "he": "מצב-רוח"
+    },
+    "otlichnyjotlichno": {
+        "ru": "отличный; отлично",
+        "he": "מצוין"
+    },
+    "nahodkanahozhdenieneobychnodeshevyjtovarvygodnaapokupka": {
+        "ru": "находка; нахождение; необычно дешёвый товар, выгодная покупка",
+        "he": "מציאה"
+    },
+    "otlichnyjluchshijdoblestnyj": {
+        "ru": "отличный, лучший, доблестный",
+        "he": "מצטיין"
+    },
+    "uspeshnyjpreuspevauschijudachnyj": {
+        "ru": "успешный, преуспевающий, удачный",
+        "he": "מצליח"
+    },
+    "mestomr": {
+        "ru": "место (м.р.)",
+        "he": "מקום"
+    },
+    "mesta": {
+        "ru": "местА",
+        "he": "מקומות"
+    },
+    "professiaspecialynostyuchebnyjpredmetmr": {
+        "ru": "профессия, специальность; (учебный) предмет (м.р.)",
+        "he": "מקצוע"
+    },
+    "professiispecialynostipredmety": {
+        "ru": "профессии, специальности; предметы",
+        "he": "מקצועות"
+    },
+    "holodilynik": {
+        "ru": "холодильник",
+        "he": "מקרר"
+    },
+    "gorykijgospodinperedfamiliej": {
+        "ru": "горький; господин (перед фамилией)",
+        "he": "מר"
+    },
+    "izdaliizdaleka": {
+        "ru": "издали, издалека",
+        "he": "מרחוק"
+    },
+    "centrck": {
+        "ru": "центр; ЦК",
+        "he": "מרכז"
+    },
+    "centralynyj": {
+        "ru": "центральный",
+        "he": "מרכזי"
+    },
+    "energia": {
+        "ru": "энергия",
+        "he": "מרץ"
+    },
+    "sup": {
+        "ru": "суп",
+        "he": "מרק"
+    },
+    "chto-nibudykoe-chto": {
+        "ru": "что-нибудь, кое-что",
+        "he": "משהו"
+    },
+    "policia": {
+        "ru": "полиция",
+        "he": "משטרה"
+    },
+    "ottuda": {
+        "ru": "оттуда",
+        "he": "משם"
+    },
+    "skuchnyjskuchno": {
+        "ru": "скучный, скучно",
+        "he": "משעמם"
+    },
+    "semyarodstvenniki": {
+        "ru": "семья; родственники",
+        "he": "משפחה"
+    },
+    "predlozheniegrammaticheskoeteoremapravourisprudencia": {
+        "ru": "предложение (грамматическое); теорема; право, юриспруденция",
+        "he": "משפט"
+    },
+    "vesyznachimostyslovoobrazovatelynaamodely": {
+        "ru": "вес(ы); значимость; словообразовательная модель",
+        "he": "משקל"
+    },
+    "ochki": {
+        "ru": "очки",
+        "he": "משקפיים"
+    },
+    "polyzovatelypolyzuuschijsa": {
+        "ru": "пользователь; пользующийся",
+        "he": "משתמש"
+    },
+    "polyzovatelynica": {
+        "ru": "пользовательница",
+        "he": "משתמשת"
+    },
+    "uchastnikuchastvuuschij": {
+        "ru": "участник; участвующий",
+        "he": "משתתף"
+    },
+    "uchastnica": {
+        "ru": "участница",
+        "he": "משתתפת"
+    },
+    "igramatch": {
+        "ru": "игра, матч",
+        "he": "משׂחק"
+    },
+    "zarplatazhalovanye": {
+        "ru": "зарплата, жалованье",
+        "he": "משׂכורת"
+    },
+    "ofiskontoraministerstvo": {
+        "ru": "офис, контора; министерство",
+        "he": "משׂרד"
+    },
+    "mertvyjmertvecpokojnik": {
+        "ru": "мёртвый; мертвец, покойник",
+        "he": "מת"
+    },
+    "podhodaschijgodnyjsootvetstvuuschijvporu": {
+        "ru": "подходящий, годный, соответствующий; впору",
+        "he": "מתאים"
+    },
+    "sladkij": {
+        "ru": "сладкий",
+        "he": "מתוק"
+    },
+    "sladkaa": {
+        "ru": "сладкая",
+        "he": "מתוקה"
+    },
+    "kogdavoprositelynoeslovo": {
+        "ru": "когда (вопросительное слово)",
+        "he": "מתי"
+    },
+    "obnovlauschijsa": {
+        "ru": "обновляющийся",
+        "he": "מתחדש"
+    },
+    "nachinauschijnovichok": {
+        "ru": "начинающий, новичок",
+        "he": "מתחיל"
+    },
+    "podarok": {
+        "ru": "подарок",
+        "he": "מתנה"
+    },
+    "progressivnyjperedovojprodvinutyj": {
+        "ru": "прогрессивный, передовой; продвинутый",
+        "he": "מתקדם"
+    },
+    "kuhna": {
+        "ru": "кухня",
+        "he": "מטבח"
+    },
+    "samolet": {
+        "ru": "самолёт",
+        "he": "מטוס"
+    },
+    "samolety": {
+        "ru": "самолёты",
+        "he": "מטוסים"
+    },
+    "ekskursantgulauschij": {
+        "ru": "экскурсант; гуляющий",
+        "he": "מטייל"
+    },
+    "ekskursantkagulauschaa": {
+        "ru": "экскурсантка; гуляющая",
+        "he": "מטיילת"
+    },
+    "rabotnikpouhodu": {
+        "ru": "работник по уходу",
+        "he": "מטפל"
+    },
+    "nanasidelkarabotnicapouhodu": {
+        "ru": "няня, сиделка; работница по уходу",
+        "he": "מטפלת"
+    },
+    "kto": {
+        "ru": "кто",
+        "he": "מי"
+    },
+    "merarazmerkachestvosvojstvo": {
+        "ru": "мера, размер; качество, свойство",
+        "he": "מידה"
+    },
+    "informaciasvedenia": {
+        "ru": "информация, сведения",
+        "he": "מידע"
+    },
+    "krovatypostely": {
+        "ru": "кровать, постель",
+        "he": "מיטה"
+    },
+    "slovozhr": {
+        "ru": "слово (ж.р.)",
+        "he": "מילה"
+    },
+    "slova": {
+        "ru": "словА",
+        "he": "מילים"
+    },
+    "slovary": {
+        "ru": "словарь",
+        "he": "מילון"
+    },
+    "vodavsegdavomnch": {
+        "ru": "вода (всегда во мн.ч.)",
+        "he": "מים"
+    },
+    "rodpolsekssvoegoroda": {
+        "ru": "род; пол; секс; своего рода",
+        "he": "מין"
+    },
+    "sok": {
+        "ru": "сок",
+        "he": "מיץ"
+    },
+    "kto-nibudykoe-ktomr": {
+        "ru": "кто-нибудь, кое-кто (м.р.)",
+        "he": "מישהו"
+    },
+    "kto-nibudykoe-ktozhr": {
+        "ru": "кто-нибудь, кое-кто (ж.р.)",
+        "he": "מישהי"
+    },
+    "avtomobily": {
+        "ru": "автомобиль",
+        "he": "מכונית"
+    },
+    "prodannyj": {
+        "ru": "проданный",
+        "he": "מכור"
+    },
+    "prodannaa": {
+        "ru": "проданная",
+        "he": "מכורה"
+    },
+    "prodazha": {
+        "ru": "продажа",
+        "he": "מכירה"
+    },
+    "brukishtany": {
+        "ru": "брюки, штаны",
+        "he": "מכנסיים"
+    },
+    "pisymo": {
+        "ru": "письмо",
+        "he": "מכתב"
+    },
+    "polnyj": {
+        "ru": "полный",
+        "he": "מלא"
+    },
+    "polnaa": {
+        "ru": "полная",
+        "he": "מלאה"
+    },
+    "graznyjgrazno": {
+        "ru": "грязный, грязно",
+        "he": "מלוכלך"
+    },
+    "gostinicaotely": {
+        "ru": "гостиница, отель",
+        "he": "מלון"
+    },
+    "soly": {
+        "ru": "соль",
+        "he": "מלח"
+    },
+    "vojna": {
+        "ru": "война",
+        "he": "מלחמה"
+    },
+    "ogurec": {
+        "ru": "огурец",
+        "he": "מלפפון"
+    },
+    "oficiant": {
+        "ru": "официант",
+        "he": "מלצר"
+    },
+    "oficiantka": {
+        "ru": "официантка",
+        "he": "מלצרית"
+    },
+    "naprotivnarechie": {
+        "ru": "напротив (наречие)",
+        "he": "ממול"
+    },
+    "vsamomdelepramo-atakidejstvitelynorealynovzapravdu": {
+        "ru": "в самом деле, прямо-таки, действительно, реально, взаправду",
+        "he": "ממש"
+    },
+    "pravitelystvo": {
+        "ru": "правительство",
+        "he": "ממשלה"
+    },
+    "skakihporskakogomomenta": {
+        "ru": "с каких пор, с какого момента",
+        "he": "ממתי"
+    },
+    "izotcchem": {
+        "ru": "из, от, c, чем",
+        "he": "מן"
+    },
+    "nachalynikdirektormenedzher": {
+        "ru": "начальник, директор, менеджер",
+        "he": "מנהל"
+    },
+    "nachalynicazhenschina-direktormenedzher": {
+        "ru": "начальница, женщина-директор/менеджер",
+        "he": "מנהלת"
+    },
+    "buhgalter": {
+        "ru": "бухгалтер",
+        "he": "מנהל חשבונות"
+    },
+    "lampa": {
+        "ru": "лампа",
+        "he": "מנורה"
+    },
+    "uborschik": {
+        "ru": "уборщик",
+        "he": "מנקה"
+    },
+    "uborschica": {
+        "ru": "уборщица",
+        "he": "מנקה"
+    },
+    "vokrugkrugomnarechie": {
+        "ru": "вокруг, кругом (наречие)",
+        "he": "מסביב"
+    },
+    "predannyjperedannyj": {
+        "ru": "преданный; переданный",
+        "he": "מסור"
+    },
+    "predannaaperedannaa": {
+        "ru": "преданная; переданная",
+        "he": "מסורה"
+    },
+    "vecherinkapartybanket": {
+        "ru": "вечеринка, party; банкет",
+        "he": "מסיבה"
+    },
+    "peredachapredostavleniepas": {
+        "ru": "передача, предоставление; пас",
+        "he": "מסירה"
+    },
+    "dokument": {
+        "ru": "документ",
+        "he": "מסמך"
+    },
+    "restoran": {
+        "ru": "ресторан",
+        "he": "מסעדה"
+    },
+    "rybnyjrestoransmihut": {
+        "ru": "рыбный ресторан (смихут)",
+        "he": "מסעדת-דגים"
+    },
+    "dostatochnodostatochnyjudovletvoritelynyjudovletvoritelyno": {
+        "ru": "достаточно, достаточный; удовлетворительный, удовлетворительно",
+        "he": "מספיק"
+    },
+    "dostatochnaaudovletvoritelynaa": {
+        "ru": "достаточная; удовлетворительная",
+        "he": "מספקת"
+    },
+    "rasskazyvauschijrasskazchiknovellist": {
+        "ru": "рассказывающий; рассказчик, новеллист",
+        "he": "מספר"
+    },
+    "chislonomer": {
+        "ru": "число, номер",
+        "he": "מספר"
+    },
+    "konec": {
+        "ru": "конец",
+        "he": "סוף"
+    },
+    "nakonec": {
+        "ru": "наконец",
+        "he": "סוף-סוף"
+    },
+    "konecnedeliweekend": {
+        "ru": "конец недели, weekend",
+        "he": "סוף שבוע"
+    },
+    "univermagsupermarket": {
+        "ru": "универмаг, supermarket",
+        "he": "סופר"
+    },
+    "pisatelypisecperepischik": {
+        "ru": "писатель; писец, переписчик",
+        "he": "סופר"
+    },
+    "pisatelynica": {
+        "ru": "писательница",
+        "he": "סופרת"
+    },
+    "prochesyvauschijskaner": {
+        "ru": "прочёсывающий; сканер",
+        "he": "סורק"
+    },
+    "prichina": {
+        "ru": "причина",
+        "he": "סיבה"
+    },
+    "okonchaniezavershenie": {
+        "ru": "окончание, завершение",
+        "he": "סיום"
+    },
+    "rasskazistoria": {
+        "ru": "рассказ, история",
+        "he": "סיפור"
+    },
+    "nozhobaroda": {
+        "ru": "нож (оба рода)",
+        "he": "סכין"
+    },
+    "nozhi": {
+        "ru": "ножи",
+        "he": "סכינים"
+    },
+    "opasnosty": {
+        "ru": "опасность",
+        "he": "סכנה"
+    },
+    "korzinasumkadlapokupok": {
+        "ru": "корзина; сумка для покупок",
+        "he": "סל"
+    },
+    "obschaakomnatagostinaasalon": {
+        "ru": "общая комната, гостиная, салон",
+        "he": "סלון"
+    },
+    "proschenieizvinenie": {
+        "ru": "прощение, извинение",
+        "he": "סליחה"
+    },
+    "pokaannyemolitvy": {
+        "ru": "покаянные молитвы",
+        "he": "סליחות"
+    },
+    "divansofatahta": {
+        "ru": "диван, софа, тахта",
+        "he": "ספה"
+    },
+    "sentabry": {
+        "ru": "сентябрь",
+        "he": "ספטמבר"
+    },
+    "soschitannyj": {
+        "ru": "(со)считанный",
+        "he": "ספור"
+    },
+    "soschitannaa": {
+        "ru": "(со)считанная",
+        "he": "ספורה"
+    },
+    "podschetletoschislenie": {
+        "ru": "(под)счёт; (лето)счисление",
+        "he": "ספירה"
+    },
+    "parikmaher": {
+        "ru": "парикмахер",
+        "he": "ספר"
+    },
+    "parikmahersha": {
+        "ru": "парикмахерша",
+        "he": "ספרית"
+    },
+    "kniga": {
+        "ru": "книга",
+        "he": "ספר"
+    },
+    "knigi": {
+        "ru": "книги",
+        "he": "ספרים"
+    },
+    "uchebniksmihut": {
+        "ru": "учебник (смихут)",
+        "he": "ספר-לימוד"
+    },
+    "uchebniki": {
+        "ru": "учебники",
+        "he": "ספרי-לימוד"
+    },
+    "filymlentaplenkabant": {
+        "ru": "фильм; лента; плёнка; бант",
+        "he": "סרט"
+    },
+    "filymylentyplenkibanty": {
+        "ru": "фильмы; ленты; плёнки; банты",
+        "he": "סרטים"
+    },
+    "prichesyvanieprochesyvanie": {
+        "ru": "причёсывание; прочёсывание",
+        "he": "סריקה"
+    },
+    "oseny": {
+        "ru": "осень",
+        "he": "סתיו"
+    },
+    "prostotakbezkonkretnojceli": {
+        "ru": "просто (так), без конкретной цели",
+        "he": "סתם"
+    },
+    "tolstyjgustoj": {
+        "ru": "толстый; густой",
+        "he": "עבה"
+    },
+    "rabotabogosluzhenie": {
+        "ru": "работа; богослужение",
+        "he": "עבודה"
+    },
+    "proshloeproshedsheevrema": {
+        "ru": "прошлое; прошедшее (время)",
+        "he": "עבר"
+    },
+    "evrejevrejskij": {
+        "ru": "еврей; еврейский",
+        "he": "עברית"
+    },
+    "evrejskaaevrejskijazykivrit": {
+        "ru": "еврейская; еврейский язык; иврит",
+        "he": "עברית"
+    },
+    "pomidortomat": {
+        "ru": "помидор, томат",
+        "he": "עגבניה"
+    },
+    "do": {
+        "ru": "до",
+        "he": "עד"
+    },
+    "dotakojstepeninastolyko": {
+        "ru": "до такой степени, настолько",
+        "he": "עד כדי כך"
+    },
+    "dokakihpordokole": {
+        "ru": "до каких пор, доколе",
+        "he": "עד מתי"
+    },
+    "dotehporpokane": {
+        "ru": "до тех пор пока (не)",
+        "he": "עד ש"
+    },
+    "vseeschepokachtodosihpor": {
+        "ru": "всё ещё, пока что, до сих пор",
+        "he": "עדיין"
+    },
+    "rabotnik": {
+        "ru": "работник",
+        "he": "עובד"
+    },
+    "rabotnica": {
+        "ru": "работница",
+        "he": "עובדת"
+    },
+    "pirogpirozhnoetort": {
+        "ru": "пирог, пирожное, торт",
+        "he": "עוגה"
+    },
+    "pechenye": {
+        "ru": "печенье",
+        "he": "עוגייה"
+    },
+    "esche": {
+        "ru": "ещё",
+        "he": "עוד"
+    },
+    "sdachaizbytokizlishek": {
+        "ru": "сдача; избыток, излишек",
+        "he": "עודף"
+    },
+    "pomoschnikassistent": {
+        "ru": "помощник, ассистент",
+        "he": "עוזר"
+    },
+    "pomoschnica": {
+        "ru": "помощница",
+        "he": "עוזרת"
+    },
+    "domrabotnica": {
+        "ru": "домработница",
+        "he": "עוזרת בית"
+    },
+    "repatriantpodnimauschijsa": {
+        "ru": "репатриант; поднимающийся",
+        "he": "עולה"
+    },
+    "repatriantkapodnimauschaasa": {
+        "ru": "репатриантка; поднимающаяся",
+        "he": "עולה"
+    },
+    "mirsvetvselennaamr": {
+        "ru": "мир, свет, Вселенная(м.р.)",
+        "he": "עולם"
+    },
+    "miry": {
+        "ru": "миры",
+        "he": "עולמות"
+    },
+    "sezonvremagoda": {
+        "ru": "сезон, время года",
+        "he": "עונה"
+    },
+    "pticakuricakakkushanyemr": {
+        "ru": "птица; курица как кушанье (м.р.)",
+        "he": "עוף"
+    },
+    "pticy": {
+        "ru": "птицы",
+        "he": "ציפורים"
+    },
+    "protiv": {
+        "ru": "против",
+        "he": "נגד"
+    },
+    "shofervoditely": {
+        "ru": "шофёр, водитель",
+        "he": "נהג"
+    },
+    "zhenschina-shofervoditelynica": {
+        "ru": "женщина-шофёр, водительница",
+        "he": "נהגת"
+    },
+    "obscheprinatyj": {
+        "ru": "(обще)принятый",
+        "he": "נהוג"
+    },
+    "obscheprinataa": {
+        "ru": "(обще)принятая",
+        "he": "נהוגה"
+    },
+    "vozhdenieupravleniemashinoj": {
+        "ru": "вождение, управление машиной",
+        "he": "נהיגה"
+    },
+    "noabry": {
+        "ru": "ноябрь",
+        "he": "נובמבר"
+    },
+    "udobnyjudobnovolyno": {
+        "ru": "удобный; удобно; вольно",
+        "he": "נוח"
+    },
+    "passazhirsedokezdokeduschij": {
+        "ru": "пассажир, седок, ездок; едущий",
+        "he": "נוסע"
+    },
+    "passazhirkaeduschaa": {
+        "ru": "пассажирка; едущая",
+        "he": "נוסעת"
+    },
+    "opadauschijpavshijubityjvbou": {
+        "ru": "(о)падающий; павший, убитый в бою",
+        "he": "נופל"
+    },
+    "milyjsimpatichnyjobhoditelynyjprivetlivyj": {
+        "ru": "милый, симпатичный, обходительный, приветливый",
+        "he": "נחמד"
+    },
+    "bumagadokumentmr": {
+        "ru": "бумага; документ (м.р.)",
+        "he": "נייר"
+    },
+    "bumagidokumenty": {
+        "ru": "бумаги; документы",
+        "he": "ניירות"
+    },
+    "opyteksperimentispytanie": {
+        "ru": "опыт, эксперимент, испытание",
+        "he": "ניסוי"
+    },
+    "opytpopytkaiskusheniemr": {
+        "ru": "опыт; попытка; искушение (м.р.)",
+        "he": "ניסיון"
+    },
+    "opytypopytki": {
+        "ru": "опыты; попытки",
+        "he": "ניסיונות"
+    },
+    "chistkaopravdanie": {
+        "ru": "чистка; оправдание",
+        "he": "ניקוי"
+    },
+    "himchistka": {
+        "ru": "химчистка",
+        "he": "ניקוי יבש"
+    },
+    "vnuk": {
+        "ru": "внук",
+        "he": "נכד"
+    },
+    "vnuki": {
+        "ru": "внуки",
+        "he": "נכדים"
+    },
+    "vnuchka": {
+        "ru": "внучка",
+        "he": "נכדה"
+    },
+    "pravilynyjpravilyno": {
+        "ru": "правильный, правильнo",
+        "he": "נכון"
+    },
+    "pravilynaa": {
+        "ru": "правильная",
+        "he": "נכונה"
+    },
+    "vhodaschij": {
+        "ru": "входящий",
+        "he": "נכנס"
+    },
+    "nizkij": {
+        "ru": "низкий",
+        "he": "נמוך"
+    },
+    "nizkaa": {
+        "ru": "низкая",
+        "he": "נמוכה"
+    },
+    "port": {
+        "ru": "порт",
+        "he": "נמל"
+    },
+    "aeroportsmihut": {
+        "ru": "аэропорт (смихут)",
+        "he": "נמל-תעופה"
+    },
+    "poezdkaezda": {
+        "ru": "поездка, езда",
+        "he": "נסיעה"
+    },
+    "priatnyjpriatno": {
+        "ru": "приятный; приятно",
+        "he": "נעים"
+    },
+    "priatnaa": {
+        "ru": "приятная",
+        "he": "נעימה"
+    },
+    "tuflabotinokzhr": {
+        "ru": "туфля, ботинок (ж.р.)",
+        "he": "נעל"
+    },
+    "tuflibotinki": {
+        "ru": "туфли, ботинки",
+        "he": "נעליים"
+    },
+    "tapochki": {
+        "ru": "тапочки",
+        "he": "נעלי-בית"
+    },
+    "padeniefiasko": {
+        "ru": "падение; фиаско",
+        "he": "נפילה"
+    },
+    "tochkaochkopunkt": {
+        "ru": "точка; очко; пункт",
+        "he": "נקודה"
+    },
+    "dvoetochie": {
+        "ru": "двоеточие",
+        "he": "נקודתיים"
+    },
+    "chistyj": {
+        "ru": "чистый",
+        "he": "נקי"
+    },
+    "chistaa": {
+        "ru": "чистая",
+        "he": "נקיה"
+    },
+    "chistotauborka": {
+        "ru": "чистота; уборка",
+        "he": "נקיון"
+    },
+    "zhenatyj": {
+        "ru": "женатый",
+        "he": "נשׂוי"
+    },
+    "zamuzhnaa": {
+        "ru": "замужняя",
+        "he": "נשׂואה"
+    },
+    "prezident": {
+        "ru": "президент",
+        "he": "נשׂיא"
+    },
+    "zhenschina-prezident": {
+        "ru": "женщина-президент",
+        "he": "נשׂיאה"
+    },
+    "dannyjnahodaschijsapodverzhennyj": {
+        "ru": "данный; находящийся; подверженный",
+        "he": "נתון"
+    },
+    "dannaanahodaschaasapodverzhennaa": {
+        "ru": "данная; находящаяся; подверженная",
+        "he": "נתונה"
+    },
+    "dannyesvedenia": {
+        "ru": "данные, сведения",
+        "he": "נתונים"
+    },
+    "otdachadavanie": {
+        "ru": "(от)дача, давание",
+        "he": "נתינה"
+    },
+    "dedushka": {
+        "ru": "дедушка",
+        "he": "סבא"
+    },
+    "vokrugpredlog": {
+        "ru": "вокруг (предлог)",
+        "he": "סביב"
+    },
+    "terpenie": {
+        "ru": "терпение",
+        "he": "סבלנות"
+    },
+    "babushka": {
+        "ru": "бабушка",
+        "he": "סבתא"
+    },
+    "fioletovyjlilovyj": {
+        "ru": "фиолетовый, лиловый",
+        "he": "סגול"
+    },
+    "fioletovaalilovaa": {
+        "ru": "фиолетовая, лиловая",
+        "he": "סגולה"
+    },
+    "zakrytyj": {
+        "ru": "закрытый",
+        "he": "סגור"
+    },
+    "zakrytaa": {
+        "ru": "закрытая",
+        "he": "סגורה"
+    },
+    "zakrytie": {
+        "ru": "закрытие",
+        "he": "סגירה"
+    },
+    "poradokpashalynaatrapeza": {
+        "ru": "порядок; пасхальная трапеза",
+        "he": "סדר"
+    },
+    "stradauschijterpaschij": {
+        "ru": "страдающий, терпящий",
+        "he": "סובל"
+    },
+    "sahar": {
+        "ru": "сахар",
+        "he": "סוכר"
+    },
+    "konfeta": {
+        "ru": "конфета",
+        "he": "סוכריה"
+    },
+    "organizovannyjustroennyjprigotovlennyjuporadochennyjnakrytyjotredaktirovannyj": {
+        "ru": "организованный, устроенный, приготовленный, упорядоченный; накрытый; отредактированный",
+        "he": "ערוך"
+    },
+    "uporadochenienalazhivanieustrojstvoprigotovlenienakryvanieredaktura": {
+        "ru": "упорядочение, налаживание, устройство, приготовление; накрывание; редактура",
+        "he": "עריכה"
+    },
+    "bogatyj": {
+        "ru": "богатый",
+        "he": "עשיר"
+    },
+    "sdelannyjprigotovlennyjizchego-libomozhetsposoben": {
+        "ru": "сделанный, приготовленный (из чего-либо); может, способен",
+        "he": "עשׂוי"
+    },
+    "deatelynostydejstvia": {
+        "ru": "деятельность, действия",
+        "he": "עשׂייה"
+    },
+    "desatyj": {
+        "ru": "десятый",
+        "he": "עשׂירי"
+    },
+    "desatyzhr": {
+        "ru": "десять (ж.р.)",
+        "he": "עשׂר"
+    },
+    "desatymr": {
+        "ru": "десять (м.р.)",
+        "he": "עשׂרה"
+    },
+    "dvadcaty": {
+        "ru": "двадцать",
+        "he": "עשׂרים"
+    },
+    "desatytysach": {
+        "ru": "десять тысяч",
+        "he": "עשׂרת אלפים"
+    },
+    "buduscheevrema": {
+        "ru": "будущее (время)",
+        "he": "עתיד"
+    },
+    "fevraly": {
+        "ru": "февраль",
+        "he": "פברואר"
+    },
+    "vstrecha": {
+        "ru": "встреча",
+        "he": "פגישה"
+    },
+    "rotustaotverstiemr": {
+        "ru": "рот, уста; отверстие (м.р.)",
+        "he": "פה"
+    },
+    "rty": {
+        "ru": "рты",
+        "he": "פיות"
+    },
+    "edinoglasno": {
+        "ru": "единогласно",
+        "he": "פה אחד"
+    },
+    "menyshemeneeminusbezzaminusom": {
+        "ru": "меньше, менее; минус, без, за минусом",
+        "he": "פחות"
+    },
+    "boleeilimenee": {
+        "ru": "более или менее",
+        "he": "פחות או יותר"
+    },
+    "perec": {
+        "ru": "перец",
+        "he": "פילפל"
+    },
+    "ugolok": {
+        "ru": "угол(ок)",
+        "he": "פינה"
+    },
+    "lepeshka": {
+        "ru": "лепёшка",
+        "he": "פיתה"
+    },
+    "falafelykushanye": {
+        "ru": "фалафель (кушанье)",
+        "he": "פלאפל"
+    },
+    "svobodnyjnezanatyjholostoj": {
+        "ru": "свободный, незанятый, холостой",
+        "he": "פנוי"
+    },
+    "svobodnaanezanataaholostaa": {
+        "ru": "свободная, незанятая, холостая",
+        "he": "פנויה"
+    },
+    "obrascheniepovorot": {
+        "ru": "обращение; поворот",
+        "he": "פנייה"
+    },
+    "licofasadobarodatolykomnch": {
+        "ru": "лицо; фасад (оба рода; только мн.ч.)",
+        "he": "פנים"
+    },
+    "vnutrennostynutrosoderzhimoevnutrenniedela": {
+        "ru": "внутренность, нутро, содержимое; внутренние дела",
+        "he": "פנים"
+    },
+    "vovnutry": {
+        "ru": "(во)внутрь",
+        "he": "פנימה"
+    },
+    "zapisnaaknizhkabloknot": {
+        "ru": "записная книжка, блокнот",
+        "he": "פנקס"
+    },
+    "chekovaaknizhka": {
+        "ru": "чековая книжка",
+        "he": "פנקס צ'קים"
+    },
+    "razodnazhdykogda-tozhr": {
+        "ru": "раз; однажды, когда-то (ж.р.)",
+        "he": "פעם"
+    },
+    "2raza": {
+        "ru": "2 раза",
+        "he": "פעמיים"
+    },
+    "3iboleerazarazy": {
+        "ru": "(3 и более) раз(а), разЫ",
+        "he": "פעמים"
+    },
+    "kontorskijsluzhaschijklerk": {
+        "ru": "конторский служащий, клерк",
+        "he": "פקיד"
+    },
+    "kontorskaasluzhaschaa": {
+        "ru": "конторская служащая",
+        "he": "פקידה"
+    },
+    "cvetokuchenikstazher": {
+        "ru": "цветок; ученик, стажёр",
+        "he": "פרח"
+    },
+    "cvetyuchenikistazhery": {
+        "ru": "цветы; ученики, стажёры",
+        "he": "פרחים"
+    },
+    "plodfruktmr": {
+        "ru": "плод, фрукт(м.р.)",
+        "he": "פרי"
+    },
+    "plodyfrukty": {
+        "ru": "плоды, фрукты",
+        "he": "פרות"
+    },
+    "prostojneslozhnyjbeshitrostnyj": {
+        "ru": "просто(й), несложный, бесхитростный",
+        "he": "פשוט"
+    },
+    "prostaaneslozhnaabeshitrostnaa": {
+        "ru": "простая, несложная, бесхитростная",
+        "he": "פשוטה"
+    },
+    "vdrugvnezapnonistogonissego": {
+        "ru": "вдруг, внезапно, ни с того ни с сего",
+        "he": "פתאום"
+    },
+    "otkrytyjotkryto": {
+        "ru": "открытый, открыто",
+        "he": "פתוח"
+    },
+    "otkrytaa": {
+        "ru": "открытая",
+        "he": "פתוחה"
+    },
+    "otkrytieotkryvanieraskrytievstupleniepredislovieuverturadebutshahm": {
+        "ru": "открытие, открывание, раскрытие; вступление, предисловие; увертюра; дебют (шахм.)",
+        "he": "פתיחה"
+    },
+    "zapiskalistokstekstom": {
+        "ru": "записка, листок (с текстом)",
+        "he": "פתק"
+    },
+    "zapiski": {
+        "ru": "записки",
+        "he": "פתקים"
+    },
+    "kozhashkuramr": {
+        "ru": "кожа; шкура (м.р.)",
+        "he": "עור"
+    },
+    "kozhishkury": {
+        "ru": "кожи; шкуры",
+        "he": "עורות"
+    },
+    "redaktor": {
+        "ru": "редактор",
+        "he": "עורך"
+    },
+    "zhenschina-redaktor": {
+        "ru": "женщина-редактор",
+        "he": "עורכת"
+    },
+    "ostavlennyjpokinutyjbroshennyj": {
+        "ru": "оставленный, покинутый, брошенный",
+        "he": "עזוב"
+    },
+    "ostavleniebrosanienaproizvolsudyby": {
+        "ru": "оставление, бросание (на произвол судьбы)",
+        "he": "עזיבה"
+    },
+    "pomoschy": {
+        "ru": "помощь",
+        "he": "עזרה"
+    },
+    "ruchkadlapisyma": {
+        "ru": "ручка (для письма)",
+        "he": "עט"
+    },
+    "ustalyjustavshijutomlennyjnevyspavshijsanesvezhij": {
+        "ru": "усталый, уставший, утомлённый; невыспавшийся; несвежий",
+        "he": "עייף"
+    },
+    "glazzhr": {
+        "ru": "глаз (ж.р.)",
+        "he": "עין"
+    },
+    "glaza": {
+        "ru": "глазА",
+        "he": "עיניים"
+    },
+    "gorodzhr": {
+        "ru": "город (ж.р.)",
+        "he": "עיר"
+    },
+    "goroda": {
+        "ru": "городА",
+        "he": "ערים"
+    },
+    "meriagorsovetmunicipalitet": {
+        "ru": "мэрия, горсовет, муниципалитет",
+        "he": "עירייה"
+    },
+    "kureniekopchenie": {
+        "ru": "курение; копчение",
+        "he": "עישון"
+    },
+    "gazeta": {
+        "ru": "газета",
+        "he": "עיתון"
+    },
+    "myshy": {
+        "ru": "мышь",
+        "he": "עכבר"
+    },
+    "sejchastepery": {
+        "ru": "сейчас, теперь",
+        "he": "עכשיו"
+    },
+    "obnazasleduetnadlezhit": {
+        "ru": "о(б), на, за; следует, надлежит",
+        "he": "על"
+    },
+    "navernakauverennobezriska": {
+        "ru": "наверняка, уверенно, без риска",
+        "he": "על בטוח"
+    },
+    "zaschetvuscherb": {
+        "ru": "за счёт; в ущерб",
+        "he": "על חשבון"
+    },
+    "obetomnaetopotomu": {
+        "ru": "об этом; на это; потому",
+        "he": "על כך"
+    },
+    "vlubomsluchaetakiliinachepo-lubomu": {
+        "ru": "в любом случае, так или иначе, по-любому",
+        "he": "על כל פנים"
+    },
+    "poetomusledovatelyno": {
+        "ru": "поэтому, следовательно",
+        "he": "על כן"
+    },
+    "nazvannyjvchestypoimeni": {
+        "ru": "названный в честь, (по) имени",
+        "he": "על שם"
+    },
+    "uslovnyjuslovnopriuslovii": {
+        "ru": "условный, условно, при условии",
+        "he": "על תנאי"
+    },
+    "posredstvompripomoschi": {
+        "ru": "посредством, при помощи",
+        "he": "על-ידי"
+    },
+    "takimobrazomsposobomputem": {
+        "ru": "таким образом/способом/путём",
+        "he": "על-ידי כך"
+    },
+    "repatriaciavizrailypodyempovyshenievyzovkchteniutory": {
+        "ru": "репатриация в Израиль; подъём, повышение; вызов к чтению Торы",
+        "he": "עלייה"
+    },
+    "cherdak": {
+        "ru": "чердак",
+        "he": "עליית גג"
+    },
+    "skem-tochem-to": {
+        "ru": "с (кем-то, чем-то)",
+        "he": "עם"
+    },
+    "narod": {
+        "ru": "народ",
+        "he": "עם"
+    },
+    "stranicastolbecstolpkolonna": {
+        "ru": "страница; столб(ец); столп, колонна",
+        "he": "עמוד"
+    },
+    "glubokij": {
+        "ru": "глубокий",
+        "he": "עמוק"
+    },
+    "glubokaa": {
+        "ru": "глубокая",
+        "he": "עמוקה"
+    },
+    "stoaniestoacheepolozheniemolitvachitaemaastoa": {
+        "ru": "стояние; стоячее положение; молитва читаемая стоя",
+        "he": "עמידה"
+    },
+    "bednyjnischij": {
+        "ru": "бедный, нищий",
+        "he": "עני"
+    },
+    "interesdelovopros": {
+        "ru": "интерес; дело, вопрос",
+        "he": "עניין"
+    },
+    "zanatyjocheloveke": {
+        "ru": "занятый (о человеке)",
+        "he": "עסוק"
+    },
+    "delobiznes": {
+        "ru": "дело, бизнес",
+        "he": "עסק"
+    },
+    "delabiznesy": {
+        "ru": "делА, бизнесы",
+        "he": "עסקים"
+    },
+    "karandashmr": {
+        "ru": "карандаш (м.р.)",
+        "he": "עפרון"
+    },
+    "karandashi": {
+        "ru": "карандаши",
+        "he": "עפרונות"
+    },
+    "derevodrevesina": {
+        "ru": "дерево; древесина",
+        "he": "עץ"
+    },
+    "sovetrekomendacia": {
+        "ru": "совет, рекомендация",
+        "he": "עצה"
+    },
+    "grustnyjpechalynyj": {
+        "ru": "грустный, печальный",
+        "he": "עצוב"
+    },
+    "ostanovlennyjzaderzhannyj": {
+        "ru": "остановленный; задержанный",
+        "he": "עצור"
+    },
+    "ostanovkadejstvie": {
+        "ru": "остановка (действие)",
+        "he": "עצירה"
+    },
+    "vecherkanun": {
+        "ru": "вечер; канун",
+        "he": "ערב"
+    },
+    "vechera": {
+        "ru": "вечерА",
+        "he": "ערבים"
+    },
+    "garantporuchitely": {
+        "ru": "гарант, поручитель",
+        "he": "ערב"
+    },
+    "garantyporuchiteli": {
+        "ru": "гаранты, поручители",
+        "he": "ערבים"
+    },
+    "pokupately": {
+        "ru": "покупатель",
+        "he": "קונה"
+    },
+    "pokupatelynica": {
+        "ru": "покупательница",
+        "he": "קונה"
+    },
+    "kassa": {
+        "ru": "касса",
+        "he": "קופה"
+    },
+    "bolynichnaakassapoliklinikasmihut": {
+        "ru": "больничная касса, поликлиника (смихут)",
+        "he": "קופת-חולים"
+    },
+    "korobka": {
+        "ru": "коробка",
+        "he": "קופסה"
+    },
+    "chitately": {
+        "ru": "читатель",
+        "he": "קורא"
+    },
+    "chitatelynica": {
+        "ru": "читательница",
+        "he": "קוראת"
+    },
+    "balkabrevno": {
+        "ru": "балка, бревно",
+        "he": "קורה"
+    },
+    "biografia": {
+        "ru": "биография",
+        "he": "קורות חיים"
+    },
+    "trudnostyslozhnosty": {
+        "ru": "трудность, сложность",
+        "he": "קושי"
+    },
+    "trudnostislozhnosti": {
+        "ru": "трудности, сложности",
+        "he": "קשיים"
+    },
+    "malenykij": {
+        "ru": "маленький",
+        "he": "קטן"
+    },
+    "malenykaa": {
+        "ru": "маленькая",
+        "he": "קטנה"
+    },
+    "otryvokfragmentprikol": {
+        "ru": "отрывок, фрагмент; прикол",
+        "he": "קטע"
+    },
+    "otryvkichastifragmentyprikoly": {
+        "ru": "отрывки, части, фрагменты; приколы",
+        "he": "קטעים"
+    },
+    "kibucsocialisticheskoeselyskoeposeleniesobiranie": {
+        "ru": "кибуц (социалистическое сельское поселение); собирание",
+        "he": "קיבוץ"
+    },
+    "leto": {
+        "ru": "лето",
+        "he": "קייץ"
+    },
+    "stenamr": {
+        "ru": "стена (м.р.)",
+        "he": "קיר"
+    },
+    "steny": {
+        "ru": "стЕны",
+        "he": "קירות"
+    },
+    "legkijlegko": {
+        "ru": "лёгкий, легко",
+        "he": "קל"
+    },
+    "absorbciausvoenievospriatie": {
+        "ru": "абсорбция; усвоение, восприятие",
+        "he": "קליטה"
+    },
+    "muka": {
+        "ru": "мукА",
+        "he": "קמח"
+    },
+    "kuplennyj": {
+        "ru": "купленный",
+        "he": "קנוי"
+    },
+    "kuplennaa": {
+        "ru": "купленная",
+        "he": "קנויה"
+    },
+    "krupnyjtorgovyjcentr": {
+        "ru": "крупный торговый центр",
+        "he": "קניון"
+    },
+    "pokupka": {
+        "ru": "покупка",
+        "he": "קנייה"
+    },
+    "kofe": {
+        "ru": "кофе",
+        "he": "קפה"
+    },
+    "kofesgorachimmolokom": {
+        "ru": "кофе с горячим молоком",
+        "he": "קפה הפוך"
+    },
+    "pryzhokpereskakivanie": {
+        "ru": "прыжок; перескакивание",
+        "he": "קפיצה"
+    },
+    "korotkijkratkij": {
+        "ru": "короткий, краткий",
+        "he": "קצר"
+    },
+    "korotkaakratkaa": {
+        "ru": "короткая, краткая",
+        "he": "קצרה"
+    },
+    "nemnogonemnozhkoslegka": {
+        "ru": "немного, немножко, слегка",
+        "he": "קצת"
+    },
+    "holodnyjholodno": {
+        "ru": "холодный, холодно",
+        "he": "קר"
+    },
+    "bojbitvasrazheniemr": {
+        "ru": "бой, битва, сражение (м.р.)",
+        "he": "קרב"
+    },
+    "boibitvysrazhenia": {
+        "ru": "бои, битвы, сражения",
+        "he": "קרבות"
+    },
+    "blizkijblizkorodstvennik": {
+        "ru": "близкий, близко; родственник",
+        "he": "קרוב"
+    },
+    "blizkaarodstvennica": {
+        "ru": "близкая; родственница",
+        "he": "קרובה"
+    },
+    "nazvannyj": {
+        "ru": "названный",
+        "he": "קרוי"
+    },
+    "nazvannaa": {
+        "ru": "названная",
+        "he": "קרויה"
+    },
+    "rvanyjporvannyjrazorvannyj": {
+        "ru": "рваный, порванный, разорванный",
+        "he": "קרוע"
+    },
+    "rvanaaporvannaarazorvannaa": {
+        "ru": "рваная, порванная, разорванная",
+        "he": "קרועה"
+    },
+    "chtenieprizyvvozglasvosklicanie": {
+        "ru": "чтение; призыв; возглас, восклицание",
+        "he": "קריאה"
+    },
+    "razryvanie": {
+        "ru": "разрыв(ание)",
+        "he": "קריעה"
+    },
+    "zemlapochvazhr": {
+        "ru": "земля, почва (ж.р.)",
+        "he": "קרקע"
+    },
+    "zemlipochvy": {
+        "ru": "зЕмли, почвы",
+        "he": "קרקעות"
+    },
+    "trudnyjtrudnotazhelyjtazhelo": {
+        "ru": "трудный, трудно; тяжелый, тяжело",
+        "he": "קשה"
+    },
+    "svazannyjsvazano": {
+        "ru": "связанный, связано",
+        "he": "קשור"
+    },
+    "svazannaa": {
+        "ru": "связанная",
+        "he": "קשורה"
+    },
+    "svazyvaniezavazyvanieprivazyvanie": {
+        "ru": "связывание, завязывание, привязывание",
+        "he": "קשירה"
+    },
+    "svazykontaktuzelzagovor": {
+        "ru": "связь, контакт; узел; зАговор",
+        "he": "קשר"
+    },
+    "svazikontaktyuzlyzagovory": {
+        "ru": "связи, контакты; узлы; зАговоры",
+        "he": "קשרים"
+    },
+    "armia": {
+        "ru": "армия",
+        "he": "צבא"
+    },
+    "armiaoboronyizrailasokraschenieismihut": {
+        "ru": "Армия Обороны Израиля (сокращение и смихут)",
+        "he": "צה\"ל - צבא הגנה לישׂראל"
+    },
+    "krashenieraskrashivaniepokraska": {
+        "ru": "крашение, раскрашивание, покраска",
+        "he": "צביעה"
+    },
+    "cvetkraska": {
+        "ru": "цвет; краска",
+        "he": "צבע"
+    },
+    "cvetakraski": {
+        "ru": "цветА; краски",
+        "he": "צבעים"
+    },
+    "storonabok": {
+        "ru": "сторона, бок",
+        "he": "צד"
+    },
+    "storonyboka": {
+        "ru": "стОроны, бока",
+        "he": "צדדים"
+    },
+    "pravyjpravednyjspravedlivyj": {
+        "ru": "прав(ый); праведный, справедливый",
+        "he": "צודק"
+    },
+    "perekrestok": {
+        "ru": "перекрёсток",
+        "he": "צומת"
+    },
+    "zheltyj": {
+        "ru": "жёлтый",
+        "he": "צהוב"
+    },
+    "zheltaa": {
+        "ru": "жёлтая",
+        "he": "צהובה"
+    },
+    "poldeny": {
+        "ru": "полдень",
+        "he": "צהריים"
+    },
+    "ocenkaotmetka": {
+        "ru": "оценка, отметка",
+        "he": "ציון"
+    },
+    "siongoravierusalime": {
+        "ru": "Сион (гора в Иерусалиме)",
+        "he": "ציון"
+    },
+    "risunokrisovanie": {
+        "ru": "рисунок; рисование",
+        "he": "ציור"
+    },
+    "fotografiasnimok": {
+        "ru": "фотография, снимок",
+        "he": "צילום"
+    },
+    "pticazhr": {
+        "ru": "птица (ж.р.)",
+        "he": "ציפור"
+    },
+    "tarelka": {
+        "ru": "тарелка",
+        "he": "צלחת"
+    },
+    "tarelki": {
+        "ru": "тарелки",
+        "he": "צלחות"
+    },
+    "zvonzvonok": {
+        "ru": "звон; звонок",
+        "he": "צלצול"
+    },
+    "molodojunosha": {
+        "ru": "молодой; юноша",
+        "he": "צעיר"
+    },
+    "molodaazhenschinadevushka": {
+        "ru": "молодая (женщина/девушка)",
+        "he": "צעירה"
+    },
+    "igrushka": {
+        "ru": "игрушка",
+        "he": "צעצוע"
+    },
+    "igrushki": {
+        "ru": "игрушки",
+        "he": "צעצועים"
+    },
+    "pechalysozhaleniezhalosty": {
+        "ru": "печаль, сожаление; жалость",
+        "he": "צער"
+    },
+    "sever": {
+        "ru": "север",
+        "he": "צפון"
+    },
+    "naseverkseveru": {
+        "ru": "на север, к северу",
+        "he": "צפונה"
+    },
+    "uzkij": {
+        "ru": "узкий",
+        "he": "צר"
+    },
+    "gorebedaneschastye": {
+        "ru": "горе, беда, несчастье",
+        "he": "צרה"
+    },
+    "dolzhennuzhnotrebuetsanuzhdaetsavmr": {
+        "ru": "должен, нужно, требуется,нуждается в (м.р.)",
+        "he": "צריך"
+    },
+    "dolzhnatrebuetsanuzhdaetsavzhr": {
+        "ru": "должна, требуется, нуждается в (ж.р.)",
+        "he": "צריכה"
+    },
+    "potreblenierashodovanie": {
+        "ru": "потребление, расход(ование)",
+        "he": "צריכה"
+    },
+    "postoannyjneizmennyjopredelennyjfiksirovannyjnepodvizhnyj": {
+        "ru": "постоянный, неизменный; определённый; фиксированный, неподвижный",
+        "he": "קבוע"
+    },
+    "postoannaaopredelennaafiksirovannaanepodvizhnaa": {
+        "ru": "постоянная; определённая; фиксированная, неподвижная",
+        "he": "קבועה"
+    },
+    "gruppakomandaselyskohozajstvennaakommuna": {
+        "ru": "группа; команда; сельскохозяйственная коммуна",
+        "he": "קבוצה"
+    },
+    "ustanovleniefiksaciakonstatacia": {
+        "ru": "установление, фиксация, констатация",
+        "he": "קביעה"
+    },
+    "kvitanciaraspiskapoluchenieprinatiepriemregistraturakabbalaevrejskoemisticheskoeuchenie": {
+        "ru": "квитанция, расписка; получение, принятие, приём; регистратура; Каббала (еврейское мистическое учение)",
+        "he": "קבלה"
+    },
+    "priemposetitelejsmihut": {
+        "ru": "приём посетителей (смихут)",
+        "he": "קבלת קהל"
+    },
+    "torzhestvennyjpriemsmihut": {
+        "ru": "торжественный приём (смихут)",
+        "he": "קבלת פנים"
+    },
+    "vpered": {
+        "ru": "вперёд",
+        "he": "קדימה"
+    },
+    "publikaposetitelitolpakagal": {
+        "ru": "публика, посетители; толпа, кагал",
+        "he": "קהל"
+    },
+    "liniachertamarshrutavtobusa": {
+        "ru": "линия, черта; маршрут (автобуса)",
+        "he": "קו"
+    },
+    "ranysheraneeprezhde": {
+        "ru": "раньше, ранее, прежде",
+        "he": "קודם"
+    },
+    "prezhdevsego": {
+        "ru": "прежде всего",
+        "he": "קודם-כל"
+    },
+    "rannijpredyduschijpredshestvuuschij": {
+        "ru": "ранний; предыдущий, предшествующий",
+        "he": "קודם"
+    },
+    "goloszvukmr": {
+        "ru": "голос; звук (м.р.)",
+        "he": "קול"
+    },
+    "golosazvuki": {
+        "ru": "голосА; звуки",
+        "he": "קולות"
+    },
+    "kinoteatr": {
+        "ru": "кино(театр)",
+        "he": "קולנוע"
+    },
+    "etazhrostcheloveka": {
+        "ru": "этаж; рост (человека)",
+        "he": "קומה"
+    },
+    "svetofor": {
+        "ru": "светофор",
+        "he": "רמזור"
+    },
+    "plohoj": {
+        "ru": "плохо(й)",
+        "he": "רע"
+    },
+    "golod": {
+        "ru": "голод",
+        "he": "רעב"
+    },
+    "golodnyj": {
+        "ru": "голодный",
+        "he": "רעב"
+    },
+    "golodnaa": {
+        "ru": "голодная",
+        "he": "רעבה"
+    },
+    "ideamr": {
+        "ru": "идея (м.р.)",
+        "he": "רעיון"
+    },
+    "idei": {
+        "ru": "идеи",
+        "he": "רעיונות"
+    },
+    "shumgrohotzemletrasenie": {
+        "ru": "шум, грохот; землетрясение",
+        "he": "רעש"
+    },
+    "medicinaizlechenievyzdorovlenie": {
+        "ru": "медицина; (из)лечение; выздоровление",
+        "he": "רפואה"
+    },
+    "zhelaemyjzhelatelynyjo": {
+        "ru": "желаемый, желательн|ый/о",
+        "he": "רצוי"
+    },
+    "zhelaemaazhelatelynaa": {
+        "ru": "желаемая, желательная",
+        "he": "רצוייה"
+    },
+    "seryeznyj": {
+        "ru": "серьезный",
+        "he": "רציני"
+    },
+    "polnastilzemlapoverhnosty": {
+        "ru": "пол, настил; земля (поверхность)",
+        "he": "רצפה"
+    },
+    "polynastily": {
+        "ru": "полЫ, настилы",
+        "he": "רצפות"
+    },
+    "tolyko": {
+        "ru": "только",
+        "he": "רק"
+    },
+    "zapisannyjozakaznojopisymezaregistrirovannyj": {
+        "ru": "записан|ный/о; заказной (о письме); зарегистрированный",
+        "he": "רשום"
+    },
+    "zapisannaazaregistrirovannaa": {
+        "ru": "записанная; зарегистрированная",
+        "he": "רשומה"
+    },
+    "razresheniepravalicenziamr": {
+        "ru": "разрешение, правА, лицензия (м.р.)",
+        "he": "רשיון"
+    },
+    "razreshenialicenzii": {
+        "ru": "разрешения, лицензии",
+        "he": "רשיונות"
+    },
+    "spisokvedomostyzametka": {
+        "ru": "список, ведомость; заметка",
+        "he": "רשימה"
+    },
+    "oficialynyjoficialyno": {
+        "ru": "официальный, официально",
+        "he": "רשמי"
+    },
+    "chtonevoproskotoryj": {
+        "ru": "что (не вопрос); который",
+        "he": "ש"
+    },
+    "zaimstvovannyjvzatyjnavrema": {
+        "ru": "заимствованный; взятый на время",
+        "he": "שאול"
+    },
+    "zaimstvovannaavzataanavrema": {
+        "ru": "заимствованная; взятая на время",
+        "he": "שאולה"
+    },
+    "zaimstvovanievzatienavrema": {
+        "ru": "заимствование; взятие на время",
+        "he": "שאילה"
+    },
+    "vopros": {
+        "ru": "вопрос",
+        "he": "שאלה"
+    },
+    "voprosnikanketa": {
+        "ru": "вопросник, анкета",
+        "he": "שאלון"
+    },
+    "nedelamr": {
+        "ru": "неделя (м.р.)",
+        "he": "שבוע"
+    },
+    "2nedeli": {
+        "ru": "2 недели",
+        "he": "שבועיים"
+    },
+    "nedeliprazdnikshavuot": {
+        "ru": "недели; праздник Шавуот",
+        "he": "שבועות"
+    },
+    "razbityjslomannyjdemoralizovannyjpunktirnyj": {
+        "ru": "разбитый; сломанный; деморализованный; пунктирный",
+        "he": "שבור"
+    },
+    "razbitaaslomannaademoralizovannaa": {
+        "ru": "разбитая; сломанная; деморализованная",
+        "he": "שבורה"
+    },
+    "sedymoj": {
+        "ru": "седьмой",
+        "he": "שביעי"
+    },
+    "polomkalomanierazbivanienarushenie": {
+        "ru": "(по)ломка, ломание; разбивание; нарушение",
+        "he": "שבירה"
+    },
+    "zabastovka": {
+        "ru": "забастовка",
+        "he": "שביתה"
+    },
+    "semyzhr": {
+        "ru": "семь (ж.р.)",
+        "he": "שבע"
+    },
+    "semymrsemidnevnyjtraurpoblizkomurodstvenniku": {
+        "ru": "семь (м.р.); семидневный траур по близкому родственнику",
+        "he": "שבעה"
+    },
+    "semnadcatyzhr": {
+        "ru": "семнадцать (ж.р.)",
+        "he": "שבע-עשׂרה"
+    },
+    "semnadcatymr": {
+        "ru": "семнадцать (м.р.)",
+        "he": "שבעה-עשׂר"
+    },
+    "semydesat": {
+        "ru": "семьдесят",
+        "he": "שבעים"
+    },
+    "semysot": {
+        "ru": "семьсот",
+        "he": "שבע מאות"
+    },
+    "semytysach": {
+        "ru": "семь тысяч",
+        "he": "שבעת אלפים"
+    },
+    "subbota": {
+        "ru": "суббота",
+        "he": "שבת"
+    },
+    "subboty": {
+        "ru": "субботы",
+        "he": "שבתות"
+    },
+    "opatysnova": {
+        "ru": "опять, снова",
+        "he": "שוב"
+    },
+    "bastuuschij": {
+        "ru": "бастующий",
+        "he": "שובת"
+    },
+    "ravnyjstoaschijravnostoittogovygodno": {
+        "ru": "равный; стОящий; равно; стОит того, выгодно",
+        "he": "שווה"
+    },
+    "policejskij": {
+        "ru": "полицейский",
+        "he": "שוטר"
+    },
+    "zhenschina-policejskij": {
+        "ru": "женщина-полицейский",
+        "he": "שוטרת"
+    },
+    "stolmr": {
+        "ru": "стол (м.р.)",
+        "he": "שולחן"
+    },
+    "stoly": {
+        "ru": "столы",
+        "he": "שולחנות"
+    },
+    "chesnoknikakoj": {
+        "ru": "чеснок; никакой",
+        "he": "שום"
+    },
+    "zrenievidenie": {
+        "ru": "зрение, вИдение",
+        "he": "ראייה"
+    },
+    "golovaglavarukovoditelyvershina": {
+        "ru": "голова; глава, руководитель; вершина",
+        "he": "ראש"
+    },
+    "glavapravitelystvapremyer-ministrsmihut": {
+        "ru": "глава правительства, премьер-министр (смихут)",
+        "he": "רה\"מ , ראש הממשלה"
+    },
+    "iudejskijnovyjgodsmihut": {
+        "ru": "иудейский Новый год (смихут)",
+        "he": "ראש השנה"
+    },
+    "pervyjdenymesacanovomesachyesmihut": {
+        "ru": "первый день месяца, новомесячье (смихут)",
+        "he": "ראש חודש"
+    },
+    "pervyjglavnyj": {
+        "ru": "первый; главный",
+        "he": "ראשון"
+    },
+    "bolyshojvelikijglavnyjravvin": {
+        "ru": "большой, великий, главный; раввин",
+        "he": "רב"
+    },
+    "mnogiemnogochislennye": {
+        "ru": "многие, многочисленные",
+        "he": "רבים"
+    },
+    "chetvertyj": {
+        "ru": "четвёртый",
+        "he": "רביעי"
+    },
+    "chetverty": {
+        "ru": "четверть",
+        "he": "רבע"
+    },
+    "obychnyjobyknovennyjprivykshijprivychnyj": {
+        "ru": "обычный, обыкновенный; привыкший, привычный",
+        "he": "רגיל"
+    },
+    "obychnaaprivykshaaprivychnaa": {
+        "ru": "обычная; привыкшая, привычная",
+        "he": "רגילה"
+    },
+    "noganozhkaprazdnikpovodzhr": {
+        "ru": "нога; ножка; праздник; повод (ж.р.)",
+        "he": "רגל"
+    },
+    "nogi": {
+        "ru": "нОги",
+        "he": "רגליים"
+    },
+    "prazdniki": {
+        "ru": "праздники",
+        "he": "רגלים"
+    },
+    "momentmgnovenieminutochku": {
+        "ru": "момент, мгновение; минуточку!",
+        "he": "רגע"
+    },
+    "mebelyvsegdavomnch": {
+        "ru": "мебель (всегда во мн.ч.)",
+        "he": "רהיטים"
+    },
+    "bolyshinstvobolyshaachasty": {
+        "ru": "большинство, бОльшая часть",
+        "he": "רוב"
+    },
+    "holostakholostojnezhenatyj": {
+        "ru": "холостяк, холостой, неженатый",
+        "he": "רווק"
+    },
+    "nezamuzhnaa": {
+        "ru": "незамужняя",
+        "he": "רווקה"
+    },
+    "veterduhzhr": {
+        "ru": "ветер; дух (ж.р.)",
+        "he": "רוח"
+    },
+    "vetryduhi": {
+        "ru": "ветры; дУхи",
+        "he": "רוחות"
+    },
+    "vsadnikeduschijverhom": {
+        "ru": "всадник, едущий верхом",
+        "he": "רוכב"
+    },
+    "motociklistsmihut": {
+        "ru": "мотоциклист (смихут)",
+        "he": "רוכב אופנוע"
+    },
+    "velosipedistsmihut": {
+        "ru": "велосипедист (смихут)",
+        "he": "רוכב אופניים"
+    },
+    "muzhchina-vrach": {
+        "ru": "мужчина-врач",
+        "he": "רופא"
+    },
+    "zhenschina-vrach": {
+        "ru": "женщина-врач",
+        "he": "רופאה"
+    },
+    "hudojofigurepostnyjnezhirnyjopische": {
+        "ru": "худой (о фигуре); постный, нежирный (о пище)",
+        "he": "רזה"
+    },
+    "shirokij": {
+        "ru": "широкий",
+        "he": "רחב"
+    },
+    "shirokaaprostorploschady": {
+        "ru": "широкая; простор; площадь",
+        "he": "רחבה"
+    },
+    "ulicamr": {
+        "ru": "улица (м.р.)",
+        "he": "רחוב"
+    },
+    "ulicy": {
+        "ru": "улицы",
+        "he": "רחובות"
+    },
+    "vymytyj": {
+        "ru": "(вы)мытый",
+        "he": "רחוץ"
+    },
+    "vymytaa": {
+        "ru": "(вы)мытая",
+        "he": "רחוצה"
+    },
+    "dalekijdalynijdaleko": {
+        "ru": "далёкий, дальний; далеко",
+        "he": "רחוק"
+    },
+    "dalekaadalynaa": {
+        "ru": "далёкая, дальняя",
+        "he": "רחוקה"
+    },
+    "mytyeumyvanie": {
+        "ru": "мытьё, умывание",
+        "he": "רחיצה"
+    },
+    "mokryjmokro": {
+        "ru": "мокрый, мокро",
+        "he": "רטוב"
+    },
+    "mokraa": {
+        "ru": "мокрая",
+        "he": "רטובה"
+    },
+    "intervyusobesedovaniemr": {
+        "ru": "интервью, собеседование (м.р.)",
+        "he": "ריאיון"
+    },
+    "intervyumnchsobesedovania": {
+        "ru": "интервью (мн.ч.), собеседования",
+        "he": "ראיונות"
+    },
+    "varenyedzhempovidlo": {
+        "ru": "варенье, джем, повидло",
+        "he": "ריבה"
+    },
+    "zapahmr": {
+        "ru": "запах (м.р.)",
+        "he": "ריח"
+    },
+    "zapahi": {
+        "ru": "запахи",
+        "he": "ריחות"
+    },
+    "beg": {
+        "ru": "бег",
+        "he": "ריצה"
+    },
+    "pustoj": {
+        "ru": "пустой",
+        "he": "ריק"
+    },
+    "magkijnezhnyj": {
+        "ru": "мягкий; нежный",
+        "he": "רך"
+    },
+    "magkaanezhnaa": {
+        "ru": "мягкая; нежная",
+        "he": "רכה"
+    },
+    "transportnoesredstvomashina": {
+        "ru": "транспортное средство, машина",
+        "he": "רכב"
+    },
+    "transportnyesredstvamashiny": {
+        "ru": "транспортные средства, машины",
+        "he": "רכבים"
+    },
+    "poezdvokzal": {
+        "ru": "поезд; вокзал",
+        "he": "רכבת"
+    },
+    "verhovaaezdaezdanavelosipedemotocikle": {
+        "ru": "верховая езда; езда на велосипеде/мотоцикле",
+        "he": "רכיבה"
+    },
+    "urovenyvozvyshennostyploskogorye": {
+        "ru": "уровень; возвышенность, плоскогорье",
+        "he": "רמה"
+    },
+    "celyjpolnyj": {
+        "ru": "целый, полный",
+        "he": "שלם"
+    },
+    "celaapolnaa": {
+        "ru": "целая, полная",
+        "he": "שלמה"
+    },
+    "nash": {
+        "ru": "наш",
+        "he": "שלנו"
+    },
+    "pozavchera": {
+        "ru": "позавчера",
+        "he": "שלשום"
+    },
+    "tam": {
+        "ru": "там",
+        "he": "שם"
+    },
+    "imamrchastospritazhatsuffiksom": {
+        "ru": "имя (м.р., часто с притяжат.суффиксом)",
+        "he": "שם"
+    },
+    "imena": {
+        "ru": "имена",
+        "he": "שמות"
+    },
+    "familiasmihut": {
+        "ru": "фамилия (смихут)",
+        "he": "שם משפחה"
+    },
+    "vosemyzhr": {
+        "ru": "восемь (ж.р.)",
+        "he": "שמונה"
+    },
+    "vosemymr": {
+        "ru": "восемь (м.р.)",
+        "he": "שמונה"
+    },
+    "vosemnadcatyzhr": {
+        "ru": "восемнадцать (ж.р.)",
+        "he": "שמונה-עשׂרה"
+    },
+    "vosemnadcatymr": {
+        "ru": "восемнадцать (м.р.)",
+        "he": "שמונה-עשׂר"
+    },
+    "vosemydesat": {
+        "ru": "восемьдесят",
+        "he": "שמונים"
+    },
+    "vosemytysach": {
+        "ru": "восемь тысяч",
+        "he": "שמונת אלפים"
+    },
+    "ohranaemyjhranimyjzarezervirovannyj": {
+        "ru": "охраняемый, хранимый; зарезервированный",
+        "he": "שמור"
+    },
+    "ohranaemaazarezervirovannaarezervaciazapovednik": {
+        "ru": "охраняемая; зарезервированная; резервация, заповедник",
+        "he": "שמורה"
+    },
+    "nebonebesavsegdavomnch": {
+        "ru": "небо, небеса (всегда во мн.ч.)",
+        "he": "שמיים"
+    },
+    "vosymoj": {
+        "ru": "восьмой",
+        "he": "שמיני"
+    },
+    "sluhsposobnostyslyshaty": {
+        "ru": "слух, способность слышать",
+        "he": "שמיעה"
+    },
+    "ohranahraneniesobludenie": {
+        "ru": "охрана; хранение; соблюдение",
+        "he": "שמירה"
+    },
+    "rastitelynoemaslo": {
+        "ru": "растительное масло",
+        "he": "שמן"
+    },
+    "tolstyjochelovekezhirnyj": {
+        "ru": "толстый (о человеке), жирный",
+        "he": "שמן"
+    },
+    "tolstyezhirnye": {
+        "ru": "толстые, жирные",
+        "he": "שמנים"
+    },
+    "solncezhr": {
+        "ru": "солнце (ж.р.)",
+        "he": "שמש"
+    },
+    "zubzhr": {
+        "ru": "зуб (ж.р.)",
+        "he": "שן"
+    },
+    "zuby": {
+        "ru": "зубы",
+        "he": "שיניים"
+    },
+    "dvamrperedsuschestvitelynym": {
+        "ru": "два (м.р. перед существительным)",
+        "he": "שני"
+    },
+    "vtoroj": {
+        "ru": "второй",
+        "he": "שני"
+    },
+    "godzhr": {
+        "ru": "год (ж.р.)",
+        "he": "שנה"
+    },
+    "2goda": {
+        "ru": "2 года",
+        "he": "שנתיים"
+    },
+    "gody": {
+        "ru": "годы",
+        "he": "שנים"
+    },
+    "uchebnyjgodsmihut": {
+        "ru": "учебный год (смихут)",
+        "he": "שנת-לימודים"
+    },
+    "sekundavtoraa": {
+        "ru": "секунда; вторая",
+        "he": "שנייה"
+    },
+    "dvamrneperedsuschestvitelynym": {
+        "ru": "два (м.р. НЕ перед существительным)",
+        "he": "שניים"
+    },
+    "dvenadcatymr": {
+        "ru": "двенадцать (м.р.)",
+        "he": "שנים-עשׂר"
+    },
+    "chas": {
+        "ru": "час",
+        "he": "שעה"
+    },
+    "2chasa": {
+        "ru": "2 часа",
+        "he": "שעתיים"
+    },
+    "chasypromezhutkivremeni": {
+        "ru": "часы (промежутки времени)",
+        "he": "שעות"
+    },
+    "chasypriborhronometr": {
+        "ru": "часы (прибор), хронометр",
+        "he": "שעון"
+    },
+    "chasypriboryhronometry": {
+        "ru": "часы (приборы), хронометры",
+        "he": "שעונים"
+    },
+    "vorotatitulynyjlistgolobmennyjkurs": {
+        "ru": "ворота; титульный лист; гол; обменный курс",
+        "he": "שער"
+    },
+    "tihijspokojnyj": {
+        "ru": "тихий, спокойный",
+        "he": "שקט"
+    },
+    "tihaaspokojnaa": {
+        "ru": "тихая, спокойная",
+        "he": "שקטה"
+    },
+    "tishinaspokojstvieshtily": {
+        "ru": "тишина, спокойствие, штиль",
+        "he": "שקט"
+    },
+    "shekely": {
+        "ru": "шекель",
+        "he": "שקל"
+    },
+    "shekeli": {
+        "ru": "шекели",
+        "he": "שקלים"
+    },
+    "shestyzhr": {
+        "ru": "шесть (ж.р.)",
+        "he": "שש"
+    },
+    "shestnadcatyzhr": {
+        "ru": "шестнадцать (ж.р.)",
+        "he": "שש-עשׂרה"
+    },
+    "shestytysach": {
+        "ru": "шесть тысяч",
+        "he": "ששת אלפים"
+    },
+    "dvezhrperedsuschestvitelynym": {
+        "ru": "две (ж.р. перед существительным)",
+        "he": "שתי"
+    },
+    "pitye": {
+        "ru": "питьё",
+        "he": "שתייה"
+    },
+    "dvezhrneperedsuschestvitelynym": {
+        "ru": "две (ж.р. НЕ перед существительным)",
+        "he": "שתיים"
+    },
+    "dvenadcatyzhr": {
+        "ru": "двенадцать (ж.р.)",
+        "he": "שתים-עשׂרה"
+    },
+    "storozhohrannikvahter": {
+        "ru": "сторож, охранник, вахтёр",
+        "he": "שומר"
+    },
+    "ohrannicavahtersha": {
+        "ru": "охранница, вахтёрша",
+        "he": "שומרת"
+    },
+    "telohranitelysmihut": {
+        "ru": "телохранитель (смихут)",
+        "he": "שומר ראש"
+    },
+    "razlichnyjdrugojinojotlichauschijsa": {
+        "ru": "раз(лич)ный; другой, иной, отличающийся",
+        "he": "שונה"
+    },
+    "rynokbazar": {
+        "ru": "рынок, базар",
+        "he": "שוק"
+    },
+    "rynkibazary": {
+        "ru": "рынки, базары",
+        "he": "שווקים"
+    },
+    "radliniastrokasherenga": {
+        "ru": "ряд, линия; строка; шеренга",
+        "he": "שורה"
+    },
+    "koreny": {
+        "ru": "корень",
+        "he": "שורש"
+    },
+    "korni": {
+        "ru": "корни",
+        "he": "שורשים"
+    },
+    "chernyj": {
+        "ru": "чёрный",
+        "he": "שחור"
+    },
+    "chernaa": {
+        "ru": "чёрная",
+        "he": "שחורה"
+    },
+    "glupostychepuha": {
+        "ru": "глупость, чепуха",
+        "he": "שטות"
+    },
+    "territoriamestnosty": {
+        "ru": "территория, местность",
+        "he": "שטח"
+    },
+    "territoriimestnosti": {
+        "ru": "территории, местности",
+        "he": "שטחים"
+    },
+    "kover": {
+        "ru": "ковёр",
+        "he": "שטיח"
+    },
+    "kovry": {
+        "ru": "ковры",
+        "he": "שטיחים"
+    },
+    "vozvraschenievozvrat": {
+        "ru": "возвращение, возврат",
+        "he": "שיבה"
+    },
+    "sonprocess": {
+        "ru": "сон (процесс)",
+        "he": "שינה"
+    },
+    "izmenenie": {
+        "ru": "изменение",
+        "he": "שינוי"
+    },
+    "urokvelichinaotmerennoeizmerimoekolichestvo": {
+        "ru": "урок; величина, отмеренное/измеримое количество",
+        "he": "שיעור"
+    },
+    "uluchsheniepopravka": {
+        "ru": "улучшение, поправка",
+        "he": "שיפור"
+    },
+    "pesnastihotvorenie": {
+        "ru": "песня; стихотворение",
+        "he": "שיר"
+    },
+    "peniepoezia": {
+        "ru": "пение; поэзия",
+        "he": "שירה"
+    },
+    "obsluzhivaniesluzhbaservis": {
+        "ru": "обслуживание; служба, сервис",
+        "he": "שירות"
+    },
+    "servisyuslugitualetubornaa": {
+        "ru": "сервисы, услуги; туалет, уборная",
+        "he": "שירותים"
+    },
+    "shestymr": {
+        "ru": "шесть (м.р.)",
+        "he": "שישה"
+    },
+    "shestnadcatymr": {
+        "ru": "шестнадцать (м.р.)",
+        "he": "שישה-עשׂר"
+    },
+    "shestoj": {
+        "ru": "шестой",
+        "he": "שישי"
+    },
+    "shestydesat": {
+        "ru": "шестьдесят",
+        "he": "שישים"
+    },
+    "mikrorajonzhilojmassiv": {
+        "ru": "(микро)район, жилой массив",
+        "he": "שכונה"
+    },
+    "lezhanie": {
+        "ru": "лежание",
+        "he": "שכיבה"
+    },
+    "sosed": {
+        "ru": "сосед",
+        "he": "שכן"
+    },
+    "sosedi": {
+        "ru": "соседи",
+        "he": "שכנים"
+    },
+    "sosedka": {
+        "ru": "соседка",
+        "he": "שכנה"
+    },
+    "predlogroditelynogopadezhaiprinadlezhnosti": {
+        "ru": "предлог родительного падежа и принадлежности",
+        "he": "של"
+    },
+    "eesobstvennyjprinadlezhaschijej": {
+        "ru": "её (собственный), принадлежащий ей",
+        "he": "שלה"
+    },
+    "ihprinadlezhaschijim-muzhchinam": {
+        "ru": "их, принадлежащий им-мужчинам",
+        "he": "שלהם"
+    },
+    "ihprinadlezhaschijim-zhenschinam": {
+        "ru": "их, принадлежащий им-женщинам",
+        "he": "שלהן"
+    },
+    "egosobstvennyjprinadlezhaschijemu": {
+        "ru": "его (собственный), принадлежащий ему",
+        "he": "שלו"
+    },
+    "mirzdravieprivet": {
+        "ru": "мир; здравие; привет!",
+        "he": "שלום"
+    },
+    "trizhr": {
+        "ru": "три (ж.р.)",
+        "he": "שלוש"
+    },
+    "trinadcatyzhr": {
+        "ru": "тринадцать (ж.р.)",
+        "he": "שלוש-עשׂרה"
+    },
+    "trimr": {
+        "ru": "три (м.р.)",
+        "he": "שלושה"
+    },
+    "trinadcatymr": {
+        "ru": "тринадцать (м.р.)",
+        "he": "שלושה-עשׂר"
+    },
+    "tritysachi": {
+        "ru": "три тысячи",
+        "he": "שלושת אלפים"
+    },
+    "vyveskatablichkaukazately": {
+        "ru": "вывеска, табличка, указатель",
+        "he": "שלט"
+    },
+    "vyveskitablichkiukazateli": {
+        "ru": "вывески, таблички, указатели",
+        "he": "שלטים"
+    },
+    "moj": {
+        "ru": "мой",
+        "he": "שלי"
+    },
+    "tvojprinadlezhaschijtebe-muzhchine": {
+        "ru": "твой, принадлежащий тебе-мужчине",
+        "he": "שלך"
+    },
+    "tvojprinadlezhaschijtebe-zhenschine": {
+        "ru": "твой, принадлежащий тебе-женщине",
+        "he": "שלך"
+    },
+    "vashprinadlezhaschijvam-muzhchinam": {
+        "ru": "ваш, принадлежащий вам-мужчинам",
+        "he": "שלכם"
+    },
+    "vashprinadlezhaschijvam-zhenschinam": {
+        "ru": "ваш, принадлежащий вам-женщинам",
+        "he": "שלכן"
+    },
+    "maklerskaakontoraposrednichestvo": {
+        "ru": "маклерская контора; посредничество",
+        "he": "תיווך"
+    },
+    "turist": {
+        "ru": "турист",
+        "he": "תייר"
+    },
+    "turistka": {
+        "ru": "туристка",
+        "he": "תיירת"
+    },
+    "grudnojrebenokmladenecmr": {
+        "ru": "грудной ребёнок, младенец (м.р.)",
+        "he": "תינוק"
+    },
+    "grudnyedetimladency": {
+        "ru": "грудные дети, младенцы",
+        "he": "תינוקות"
+    },
+    "sumkapapkadelozhurnalistskoesudebnoeportfelyvtchministerskij": {
+        "ru": "сумка; папка; дело (журналистское, судебное); портфель (в т.ч. министерский)",
+        "he": "תיק"
+    },
+    "ispravleniepopravkapochinkamelkijremont": {
+        "ru": "исправление, поправка; починка, (мелкий) ремонт",
+        "he": "תיקון"
+    },
+    "kukuruza": {
+        "ru": "кукуруза",
+        "he": "תירס"
+    },
+    "golubiznagolubojnesklonaetsa": {
+        "ru": "голубизна; голубой (не склоняется)",
+        "he": "תכלת"
+    },
+    "programmaplan": {
+        "ru": "программа, план",
+        "he": "תכנית"
+    },
+    "podveshennyjzavisaschijostavshijsanereshennym": {
+        "ru": "по(д)вешенный; (за)висящий; оставшийся нерешённым",
+        "he": "תלוי"
+    },
+    "podveshennaazavisaschaa": {
+        "ru": "по(д)вешенная; (за)висящая",
+        "he": "תלויה"
+    },
+    "zhaloba": {
+        "ru": "жалоба",
+        "he": "תלונה"
+    },
+    "veshaniepoveshenie": {
+        "ru": "вешание; повешение",
+        "he": "תלייה"
+    },
+    "uchenik": {
+        "ru": "ученик",
+        "he": "תלמיד"
+    },
+    "uchenica": {
+        "ru": "ученица",
+        "he": "תלמידה"
+    },
+    "kartinafotografia": {
+        "ru": "картина; фотография",
+        "he": "תמונה"
+    },
+    "vsegda": {
+        "ru": "всегда",
+        "he": "תמיד"
+    },
+    "uslovie": {
+        "ru": "условие",
+        "he": "תנאי"
+    },
+    "peredvizhenieglasnyjzvuk": {
+        "ru": "(пере)движение; гласный звук",
+        "he": "תנועה"
+    },
+    "pechypechkaplita": {
+        "ru": "печь, печка; плита",
+        "he": "תנור"
+    },
+    "udostoverenie": {
+        "ru": "удостоверение",
+        "he": "תעודה"
+    },
+    "udostoverenielichnostismihut": {
+        "ru": "удостоверение личности (смихут)",
+        "he": "תעודת-זהות"
+    },
+    "aviaciavozduhoplavanie": {
+        "ru": "авиация, воздухоплавание",
+        "he": "תעופה"
+    },
+    "promyshlennostyindustria": {
+        "ru": "промышленность, индустрия",
+        "he": "תעשׂייה"
+    },
+    "apelysin": {
+        "ru": "апельсин",
+        "he": "תפוז"
+    },
+    "abloko": {
+        "ru": "яблоко",
+        "he": "תפוח"
+    },
+    "kartofelysmihut": {
+        "ru": "картофель (смихут)",
+        "he": "תפוח-אדמה"
+    },
+    "zanatyjopojmannyjshvachennyj": {
+        "ru": "занят|ый/о; пойманный, схваченный",
+        "he": "תפוס"
+    },
+    "zanataapojmannaashvachennaa": {
+        "ru": "занятая; пойманная, схваченная",
+        "he": "תפוסה"
+    },
+    "lovlavospriatiezahvatprisvoenie": {
+        "ru": "ловля; восприятие; захват, присвоение",
+        "he": "תפיסה"
+    },
+    "rolyfunkciadolzhnosty": {
+        "ru": "роль; функция; должность",
+        "he": "תפקיד"
+    },
+    "menu": {
+        "ru": "меню",
+        "he": "תפריט"
+    },
+    "nadezhda": {
+        "ru": "надежда",
+        "he": "תקווה"
+    },
+    "periodporaepoha": {
+        "ru": "период, пора, эпоха",
+        "he": "תקופה"
+    },
+    "budzhetotvedennaadlapokupkisumma": {
+        "ru": "бюджет; отведенная для покупки сумма",
+        "he": "תקציב"
+    },
+    "potolok": {
+        "ru": "потолок",
+        "he": "תקרה"
+    },
+    "kulytura": {
+        "ru": "культура",
+        "he": "תרבות"
+    },
+    "perevodprocess": {
+        "ru": "перевод (процесс)",
+        "he": "תרגום"
+    },
+    "perevodrezulytattekst": {
+        "ru": "перевод (результат/текст)",
+        "he": "תרגום"
+    },
+    "uprazhneniepriemulovka": {
+        "ru": "упражнение; приём, уловка",
+        "he": "תרגיל"
+    },
+    "lekarstvo": {
+        "ru": "лекарство",
+        "he": "תרופה"
+    },
+    "otvetpokaanie": {
+        "ru": "ответ; покаяние",
+        "he": "תשובה"
+    },
+    "platezhoplatavznos": {
+        "ru": "платёж, (о)плата, взнос",
+        "he": "תשלום"
+    },
+    "devatyj": {
+        "ru": "девятый",
+        "he": "תשיעי"
+    },
+    "devatyzhr": {
+        "ru": "девять (ж.р.)",
+        "he": "תשע"
+    },
+    "devatymr": {
+        "ru": "девять (м.р.)",
+        "he": "תשעה"
+    },
+    "devatnadcatyzhr": {
+        "ru": "девятнадцать (ж.р.)",
+        "he": "תשע-עשׂרה"
+    },
+    "devatnadcatymr": {
+        "ru": "девятнадцать (м.р.)",
+        "he": "תשעה-עשׂר"
+    },
+    "devanosto": {
+        "ru": "девяносто",
+        "he": "תשעים"
+    },
+    "devatysot": {
+        "ru": "девятьсот",
+        "he": "שבע מאות"
+    },
+    "devatytysach": {
+        "ru": "девять тысяч",
+        "he": "תשעת אלפים"
+    },
+    "vnimanie": {
+        "ru": "внимание",
+        "he": "תשׂומת-לב"
+    },
+    "sytyj": {
+        "ru": "сытый",
+        "he": "שׂבע"
+    },
+    "sytaa": {
+        "ru": "сытая",
+        "he": "שׂבעה"
+    },
+    "poleotkrytaamestnosty": {
+        "ru": "поле; открытая местность",
+        "he": "שׂדה"
+    },
+    "aerodromaeroportsmihut": {
+        "ru": "аэродром; аэропорт (смихут)",
+        "he": "שׂדה-תעופה"
+    },
+    "nenavistnikvrag": {
+        "ru": "ненавистник, враг",
+        "he": "שׂונא"
+    },
+    "plavanie": {
+        "ru": "плавание",
+        "he": "שׂחייה"
+    },
+    "besedarazgovor": {
+        "ru": "беседа, разговор",
+        "he": "שׂיחה"
+    },
+    "razgovornik": {
+        "ru": "разговорник",
+        "he": "שׂיחון"
+    },
+    "arendovannyjsyemnyj": {
+        "ru": "арендованный, съёмный",
+        "he": "שׂכור"
+    },
+    "arendovannaasyemnaa": {
+        "ru": "арендованная, съёмная",
+        "he": "שׂכורה"
+    },
+    "arendasyemprokat": {
+        "ru": "аренда, съём, прокат",
+        "he": "שׂכירות"
+    },
+    "oplatavoznagrazhdenie": {
+        "ru": "(о)плата, вознаграждение",
+        "he": "שׂכר"
+    },
+    "kvartplatasmihut": {
+        "ru": "квартплата (смихут)",
+        "he": "שׂכר-דירה"
+    },
+    "platazaobucheniesmihut": {
+        "ru": "плата за обучение (смихут)",
+        "he": "שׂכר-לימוד"
+    },
+    "levyjlevaastorona": {
+        "ru": "левый; левая сторона",
+        "he": "שׂמאל"
+    },
+    "nalevo": {
+        "ru": "налево",
+        "he": "שׂמאלה"
+    },
+    "levyj": {
+        "ru": "левый",
+        "he": "שׂמאלי"
+    },
+    "radostnyjschastlivyjveselyj": {
+        "ru": "радостный, счастливый, весёлый",
+        "he": "שׂמח"
+    },
+    "radostnaaschastlivaaveselaa": {
+        "ru": "радостная, счастливая, весёлая",
+        "he": "שׂמחה"
+    },
+    "radostyveselyetorzhestvo": {
+        "ru": "радость, веселье, торжество",
+        "he": "שׂמחה"
+    },
+    "radostiveselyatorzhestva": {
+        "ru": "радости, веселья, торжества",
+        "he": "שׂמחות"
+    },
+    "odealo": {
+        "ru": "одеяло",
+        "he": "שׂמיכה"
+    },
+    "platye": {
+        "ru": "платье",
+        "he": "שׂמלה"
+    },
+    "platyamnch": {
+        "ru": "платья (мн.ч.)",
+        "he": "שׂמלות"
+    },
+    "vecherneeplatyesmihut": {
+        "ru": "вечернее платье (смихут)",
+        "he": "שׂמלת ערב"
+    },
+    "vechernieplatyasmihut": {
+        "ru": "вечерние платья (смихут)",
+        "he": "שׂמלות ערב"
+    },
+    "nenavistnyjnenavidimyj": {
+        "ru": "ненавистный, ненавидимый",
+        "he": "שׂנוא"
+    },
+    "nenavistnaanenavidimaa": {
+        "ru": "ненавистная, ненавидимая",
+        "he": "שׂנואה"
+    },
+    "volosyshevelura": {
+        "ru": "волосы, шевелюра",
+        "he": "שׂער"
+    },
+    "volosvolosok": {
+        "ru": "волос, волосок",
+        "he": "שׂערה"
+    },
+    "azykrechygubaberegmoraozera": {
+        "ru": "язык (речь); губа; берег (моря, озера)",
+        "he": "שׂפה"
+    },
+    "guby": {
+        "ru": "гУбы",
+        "he": "שׂפתיים"
+    },
+    "meshok": {
+        "ru": "мешок",
+        "he": "שׂק"
+    },
+    "meshochekkulekpaketik": {
+        "ru": "мешочек, кулёк, пакет(ик)",
+        "he": "שׂקית"
+    },
+    "ministr": {
+        "ru": "министр",
+        "he": "שׂר"
+    },
+    "zhenschina-ministr": {
+        "ru": "женщина-министр",
+        "he": "שׂרה"
+    },
+    "avarianeschastnyjsluchaj": {
+        "ru": "авария, несчастный случай",
+        "he": "תאונה"
+    },
+    "data": {
+        "ru": "дата",
+        "he": "תאריך"
+    },
+    "chaj": {
+        "ru": "чай",
+        "he": "תה"
+    },
+    "spasiboblagodarnosty": {
+        "ru": "спасибо; благодарность",
+        "he": "תודה"
+    },
+    "bolyshoespasibo": {
+        "ru": "большое спасибо",
+        "he": "תודה רבה"
+    },
+    "vnutrennostyseredinanutroprinepozzhechemcherez": {
+        "ru": "внутренность, середина, нутро; при; не позже чем через",
+        "he": "תוך"
+    },
+    "rezulytatposledstvie": {
+        "ru": "результат, последствие",
+        "he": "תוצאה"
+    },
+    "ocheredy": {
+        "ru": "очередь",
+        "he": "תור"
+    },
+    "torapatiknizhieuchenieteoria": {
+        "ru": "Тора, Пятикнижие; учение, теория",
+        "he": "תורה"
+    },
+    "zhitely": {
+        "ru": "житель",
+        "he": "תושב"
+    },
+    "zhitelynica": {
+        "ru": "жительница",
+        "he": "תושבת"
+    },
+    "tutovnikshelkovica": {
+        "ru": "тутовник, шелковица",
+        "he": "תות"
+    },
+    "sadovaazemlanikaklubnikasmihut": {
+        "ru": "садовая земляника, клубника (смихут)",
+        "he": "תות-שׂדה"
+    },
+    "transport": {
+        "ru": "транспорт",
+        "he": "תחבורה"
+    },
+    "sferaoblastytema": {
+        "ru": "сфера, область, тема",
+        "he": "תחום"
+    },
+    "stanciaostanovka": {
+        "ru": "станция; остановка",
+        "he": "תחנה"
+    },
+    "popazadnicapodvmestoza": {
+        "ru": "попа, задница; под; вместо, за",
+        "he": "תחת"
+    },
+    "nizhnij": {
+        "ru": "нижний",
+        "he": "תחתון"
+    },
+    "trusy": {
+        "ru": "трусЫ",
+        "he": "תחתונים"
+    },
+    "appetit": {
+        "ru": "аппетит",
+        "he": "תיאבון"
+    },
+    "teatr": {
+        "ru": "театр",
+        "he": "תיאטרון"
+    }
+}

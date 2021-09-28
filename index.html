@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Hebrew cards</title>
+	<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+	<link rel="manifest" href="site.webmanifest">
+	<link rel="stylesheet" href="css/main.css">
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<script src="js/main.js" defer></script>
+</head>
+<body>
+	<header>
+		<span></span>
+		<h1 class="header__title">Hebrew cards</h1>
+		<ul class="links">
+			<li class="link">
+				<span class="btn__action" data-action="show_settings">settings</span>
+			</li>
+		</ul>
+	</header>
+	<!-- <textarea id="json-data" cols="30" rows="10"></textarea> -->
+	<!-- <button class="btn btn__action" data-action="generate_json_data">generate</button> -->
+	<main id="gamefield"></main>
+	<footer>
+		<div class="copyright">made by Burlakov</div>
+		<ul class="links">
+			<li class="link">
+				<a href="https://github.com/burlakvo/hebrew-words">
+					<img src="./images/github.png" alt="GitHub">
+				</a>
+			</li>
+		</ul>
+	</footer>
+	<div class="settings">
+		<span class="btn__action" data-action="show_settings">close settings</span>
+		<p>
+			number of words per game<br>
+			<small>(require starting a new game)</small>
+			<ul class="links">
+				<li class="link">
+					<label class="radio__wrap btn__action" data-action="change_settings">
+						<input type="radio" name="wordsPerGame" class="radio__input" value="5">
+						<span class="radio__label">5</span>
+					</label>
+				</li>
+				<li class="link">
+					<label class="radio__wrap btn__action" data-action="change_settings">
+						<input type="radio" name="wordsPerGame" class="radio__input" value="10">
+						<span class="radio__label">10</span>
+					</label>
+				</li>
+				<li class="link">
+					<label class="radio__wrap btn__action" data-action="change_settings">
+						<input type="radio" name="wordsPerGame" class="radio__input" value="20">
+						<span class="radio__label">20</span>
+					</label>
+				</li>
+				<li class="link">
+					<label class="radio__wrap btn__action" data-action="change_settings">
+						<input type="radio" name="wordsPerGame" class="radio__input" value="0">
+						<span class="radio__label">all</span>
+					</label>
+				</li>
+			</ul>
+		</p>
+	</div>
+	<template id="template_choose-level">
+		<div class="gamefield__header"></div>
+		<div class="gamefield__body">
+			<div class="gamefield__word">Choose level</div>
+			<div class="gamefield__options">
+				<button class="gamefield__option btn btn__action" data-action="choose_lvl" data-lvl="alef_verbs">alef (verbs)</button>
+				<button class="gamefield__option btn btn__action" data-action="choose_lvl" data-lvl="alef_no_verbs">alef (no verbs)</button>
+			</div>
+		</div>
+	</template>
+	<template id="template__1from4_header">
+		<div class="gamefield__header">
+			<form class="gamefield__form-statistics">
+				<input type="hidden" name="correct" value="0">
+				<input type="hidden" name="wrong" value="0">
+			</form>
+			<span class="gamefield__lvl-name">level</span>
+			<span><span class="gamefield__word-num_cur">0</span>/<span class="gamefield__word-num_tot">0</span></span>
+		</div>
+	</template>
+	<template id="template__1from4_body">
+		<div class="gamefield__body">
+			<div class="gamefield__word">word</div>
+			<div class="gamefield__options">
+				<button class="gamefield__option btn btn__action" data-action="choose_answer">opt1</button>
+				<button class="gamefield__option btn btn__action" data-action="choose_answer">opt2</button>
+				<button class="gamefield__option btn btn__action" data-action="choose_answer">opt3</button>
+				<button class="gamefield__option btn btn__action" data-action="choose_answer">opt4</button>
+			</div>
+		</div>
+	</template>
+	<template id="template__1from4_results">
+		<div class="gamefield__body">
+			<div class="gamefield__word">Well done!</div>
+			<div class="gamefield__statistics"></div>
+		</div>
+	</template>
+	<template id="template__1from4_result-statistic">
+		<div class="gamefield__statistic">
+			<span class="gamefield__statistic-title">title</span>: <span class="gamefield_statistic-value">0</span>
+		</div>
+	</template>
+</body>
+</html>

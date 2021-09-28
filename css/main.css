@@ -1,0 +1,203 @@
+/** Table of contents
+ *
+ * General
+ * Gamefield
+ * Settings
+ * Elements
+ * 	Links
+ * 	Buttons
+ * Animations
+ */
+
+/* General
+------------------------------------------------------------*/
+
+html {
+	font-size: 10px;
+
+	--color-white: #ecf0f1;
+	--color-black: #2c3e50;
+
+	--color-success: rgba(39, 174, 96, .8);
+	--color-wrong: rgba(192, 57, 43, .8);
+}
+
+body {
+	width: 100vw;
+	min-height: 100vh;
+	margin: 0;
+	overflow: hidden;
+	background: var(--color-white);
+	color: var(--color-black);
+	font-size: 2rem;
+	display: grid;
+	grid-template-rows: auto 1fr auto;
+	grid-template-areas:
+		"h"
+		"m"
+		"f";
+}
+
+body.choice_right {
+	--color-middle: var(--color-success);
+}
+
+body.choice_wrong {
+	--color-middle: var(--color-wrong);
+}
+
+body.choice_animate {
+	--color-start: var(--color-white);
+	animation: blink_background .3s;
+}
+
+header,
+footer,
+.gamefield__header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px;
+}
+
+header {
+	grid-area: h;
+	position: sticky;
+	top: 0;
+}
+
+main {
+	grid-area: m;
+	display: grid;
+	grid-template-rows: auto 1fr;
+}
+
+footer {
+	grid-area: f;
+}
+
+img {
+	vertical-align: middle;
+}
+
+/* Header
+------------------------------------------------------------*/
+
+.header__title {
+	margin-top: 0;
+	margin-bottom: 0;
+	font-size: 2.5rem;
+	font-weight: normal;
+}
+
+/* Gamefield
+------------------------------------------------------------*/
+
+.gamefield__body {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.gamefield__word {
+	margin-top: 0;
+	margin-bottom: 2em;
+	font-size: 4rem;
+}
+
+/* Settings
+------------------------------------------------------------*/
+
+.settings {
+	position: absolute;
+	top: 0;
+	left: 100%;
+	right: 0;
+	height: 100vw;
+	width: 250px;
+	padding: 10px;
+	border-left: 1px solid var(--color-black);
+	background: var(--color-white);
+	overflow: hidden;
+	overflow-y: auto;
+	transition: left .3s;
+}
+
+.settings_show {
+	left: calc(100vw - 250px);
+}
+
+/* Radio
+------------------------------*/
+
+.radio__wrap {
+	display: block;
+}
+
+.radio__input {
+	display: block;
+	opacity: 0;
+	width: 0;
+	height: 0;
+	margin: 0;
+}
+
+.radio__label {
+	display: block;
+	border: 1px solid var(--color-black);
+	background: transparent;
+	padding: 5px 15px;
+	transition: all .3s;
+}
+
+.radio__label:hover,
+.radio__input:checked + .radio__label {
+	background: var(--color-black);
+	color: var(--color-white);
+}
+
+/* Elements
+------------------------------------------------------------*/
+
+/* Links
+------------------------------*/
+
+.links {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.link {
+	display: inline-block;
+}
+
+/* Buttons
+------------------------------*/
+
+.btn {
+	border: 1px solid var(--color-black);
+	background: transparent;
+	padding: 5px 15px;
+	transition: all .3s;
+}
+
+.btn:hover,
+.btn__action:hover {
+	cursor: pointer;
+}
+
+.btn:hover {
+	background: var(--color-black);
+	color: var(--color-white);
+}
+
+/* Animations
+------------------------------------------------------------*/
+
+@keyframes blink_background {
+	0%   { background-color: var(--color-start); }
+	50%  { background-color: var(--color-middle); }
+	100% { background-color: var(--color-start); }
+}
